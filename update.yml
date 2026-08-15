@@ -1,0 +1,33 @@
+name: PICASO Daily Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build today's edition
+        run: node generate.mjs
+      - name: Save updated edition
+        run: |
+          git config user.name "PICASO Bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update PICASO edition"
+            git push
+          fi

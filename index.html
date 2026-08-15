@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PICASO — Finance, Without the Noise</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand"><span class="mark">P</span><b>PICASO</b></div>
+  <div id="date">Loading…</div>
+  <button id="refresh">↻ Refresh</button>
+</header>
+<main>
+  <section class="hero">
+    <div>
+      <span class="eyebrow">DAILY FINANCE BRIEF</span>
+      <h1>Finance,<br><em>without the noise.</em></h1>
+      <p>Important news. Why it matters. What to watch in the market and your valuation model.</p>
+      <div class="chips"><span>MARKETS</span><span>PAINT</span><span>IT</span><span>STARTUPS</span><span>M&A</span><span>CFA</span></div>
+    </div>
+    <div class="hero-box"><small>READING TIME</small><strong>&lt; 30 sec</strong><span>per story</span></div>
+  </section>
+
+  <nav id="filters">
+    <button class="active" data-filter="ALL">ALL</button>
+    <button data-filter="MARKETS">MARKETS</button>
+    <button data-filter="PAINT">PAINT</button>
+    <button data-filter="IT">IT</button>
+    <button data-filter="STARTUPS">STARTUPS</button>
+    <button data-filter="M&A">M&A</button>
+  </nav>
+
+  <section id="stories" class="grid"></section>
+
+  <section class="special">
+    <div>
+      <span class="eyebrow">CFA × NEWS</span>
+      <h2>One concept. One real-world use.</h2>
+      <p id="cfa">PICASO will connect today's most useful story to a CFA concept.</p>
+    </div>
+    <strong>NEWS → DRIVER → MODEL → VALUE</strong>
+  </section>
+
+  <section class="model">
+    <span class="eyebrow">MODEL CHECK</span>
+    <h2>Don't change a valuation because of a headline.</h2>
+    <p id="model">Look for the underlying driver first. Then decide which assumption, if any, deserves a sensitivity test.</p>
+  </section>
+</main>
+<footer><span>PICASO · Educational finance newspaper</span><span id="status">—</span></footer>
+<script src="script.js"></script>
+</body>
+</html>
