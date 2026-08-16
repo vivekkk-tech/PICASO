@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T10:22:04.167Z",
+  "updated_at": "2026-08-16T05:03:22.939Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -65,6 +65,18 @@
     },
     {
       "section": "M&A",
+      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
+      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
+      "image": "https://www.fortuneindia.com"
+    },
+    {
+      "section": "M&A",
       "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
       "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -77,8 +89,8 @@
     },
     {
       "section": "M&A",
-      "title": "Mergers and Acquisitions in India: Strategies for Growth and Success - india-briefing.com",
-      "what": "Mergers and Acquisitions in India: Strategies for Growth and Success &nbsp;&nbsp; india-briefing.com",
+      "title": "Mergers and Acquisitions in India: Strategies for Growth and Success - India Briefing",
+      "what": "Mergers and Acquisitions in India: Strategies for Growth and Success &nbsp;&nbsp; India Briefing",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzROekxtWVhIYldtWW5TczZUbEhhdWtUd3FQS3pFejR6aXlzMXVva0VJSWNUWm9kVmFTV2dWMUhZWko3Q3c5bWRZOUV1SWFNSThlWjhQOWlMMXU4OHZacFlmaFBnWkxaNHFvMEkzWVVkc2Q5dVBnYVN0LWVWcjVtT0tzMFZ1SENJa2JOeF9kX29ESGRCalctMQ?oc=5",
       "image": "https://yourstory.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Five Indian startup acquisitions that created billion-dollar value - ET Edge Insights",
-      "what": "Five Indian startup acquisitions that created billion-dollar value &nbsp;&nbsp; ET Edge Insights",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEUyeXFzOUMzR1hkaVVTV1laR3hGYTJ2NW1pdFhjZ0dEVXF2UVV1dllFQlNmOHd2eTFFSzBDRkw0ZnVTZGdvSldqYzAySE9uT0FNX3lmUXVCYlJqY2VDN3B6MnlkZFBBWjhEUzg2TDBGOHcxMHNLOXZfTkdhQW0wYm1LNUVhV3NPTVpEcWFueEdLSllUM0locWdsMklhbFBm?oc=5",
-      "image": "https://etedge-insights.com"
     }
   ],
   "cfa": {
