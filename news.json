@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T05:05:40.427Z",
+  "updated_at": "2026-08-19T05:05:57.838Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -17,8 +17,8 @@
     },
     {
       "section": "STARTUPS",
-      "title": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report - economictimes.com",
-      "what": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report &nbsp;&nbsp; economictimes.com",
+      "title": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report - The Economic Times",
+      "what": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report &nbsp;&nbsp; The Economic Times",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Mixed / needs context",
       "model": "Review purchase price, funding, synergies and accretion/dilution.",
@@ -101,8 +101,8 @@
     },
     {
       "section": "M&A",
-      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - business-standard.com",
-      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; business-standard.com",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -137,8 +137,8 @@
     },
     {
       "section": "M&A",
-      "title": "How AI is quietly rewriting the M&A sourcing playbook in India’s startup ecosystem - YourStory.com",
-      "what": "How AI is quietly rewriting the M&A sourcing playbook in India’s startup ecosystem &nbsp;&nbsp; YourStory.com",
+      "title": "How AI is quietly rewriting the M&A sourcing playbook in India’s startup ecosystem - yourstory.com",
+      "what": "How AI is quietly rewriting the M&A sourcing playbook in India’s startup ecosystem &nbsp;&nbsp; yourstory.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
