@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T05:08:31.802Z",
+  "updated_at": "2026-08-22T05:01:50.967Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -77,6 +77,18 @@
     },
     {
       "section": "M&A",
+      "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - The Times of India",
+      "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; The Times of India",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
+      "image": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "section": "M&A",
       "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
       "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
       "image": "https://www.business-standard.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
-      "image": "https://www.cnbctv18.com"
     }
   ],
   "cfa": {
