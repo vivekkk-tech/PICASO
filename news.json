@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-24T05:26:27.543Z",
+  "updated_at": "2026-08-25T05:18:04.697Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
     {
       "section": "STARTUPS",
-      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
-      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - Economic Times BFSI",
+      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; Economic Times BFSI",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Potentially positive",
       "model": "Review purchase price, funding, synergies and accretion/dilution.",
@@ -41,8 +41,8 @@
     },
     {
       "section": "M&A",
-      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
-      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - Economic Times BFSI",
+      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; Economic Times BFSI",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -101,6 +101,18 @@
     },
     {
       "section": "M&A",
+      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
+      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
+      "image": "https://www.aninews.in"
+    },
+    {
+      "section": "M&A",
       "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
       "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
       "image": "https://www.business-standard.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
-      "image": "https://www.cnbctv18.com"
     }
   ],
   "cfa": {
