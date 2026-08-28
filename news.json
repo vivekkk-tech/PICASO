@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T05:17:09.586Z",
+  "updated_at": "2026-08-28T21:14:56.856Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -41,6 +41,18 @@
     },
     {
       "section": "M&A",
+      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
+      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3NfZEVyZ2hEczhqVnlxd3lRcmZ3VS1qQmRyZzFveXh2XzlVblFnOEhxMGVid0pDTl85YVBEOWE0ZURJNFJmN2JrQmFvM0Y5SzM3eVJuT1Z2cWNxWHlzTzRmU2lhc2IyNkZ3eDZmeGpmQ3FCdFBnR2EtMzk1ZHlkbW5xSUFaRnBWQ3hEMzAyZnlwYm51MkloS2FaWGNGLWl0UjdncFEzU2RyV3VtSjhyM1NUSHdaaHJWOFI2NjdUUEVLOTZ0bndPaUpGM091T3hTVXAybHMxU19kZXhVTjhJMm5WZlA5Z3o0d2t2Wk5HdGQ1RFR3bDQtd9IB_gFBVV95cUxNcTFaaFJ4eDVjZ3Z4UkhRcmRvdWN0TnRWU05sbGpUUWlzc0NEQldOMVZEN2xDdUFaZ0NzT3FvOFNoREQxQWpYelNERk85V3NTUmVnb3N4VWRGNEpZN0luLUtJX0FlR29XUXBjZld1S1daWUM0ZF9UbXRiWi1mYlR3ZDZESDFsbms2elN6UjYxLTRsc2ZFdk9vMjhBMHNiOElFTDQycWtiVGdwRFd4a05kR2RhWlRGWUJ3QlpEUEhWS2ZiOXdSaUtabGJwdTA4eVpFLUVhYWE1NlJUQng2NFJxN2l5ak1uZndLb2FEZkN2RDlKX3hQc1dDbDVsaGdsUQ?oc=5",
+      "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
       "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -65,18 +77,6 @@
     },
     {
       "section": "M&A",
-      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
-      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
-      "image": "https://www.newindianexpress.com"
-    },
-    {
-      "section": "M&A",
       "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - The Times of India",
       "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; The Times of India",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -86,6 +86,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
       "image": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
+      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
+      "image": "https://www.newindianexpress.com"
     },
     {
       "section": "M&A",
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkJVS1ZpVzNUdHM2UVFHQTFvR3FvMTIxT3FYaWtpRXVvREtZQU14eHBpUWpEcjcwN2VEeE5WNFQyMHhLUkVFUE5QXzlDN0RGNWNtU2VfRnpzOW0teXRxZ24tcHhWWWlVLTVzdlBGMFdnODh4ekpzODk0Zk5nQjJOVG9KTktpbHVfcHQ2OWVCRVZtbzhsZ0haSm5Mb2VzdUFLdHRjZzdYTQ?oc=5",
       "image": "https://www.india-briefing.com"
-    },
-    {
-      "section": "M&A",
-      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
-      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
-      "image": "https://www.business-standard.com"
     }
   ],
   "cfa": {
