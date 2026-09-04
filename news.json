@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-03T05:30:55.442Z",
+  "updated_at": "2026-09-04T03:40:55.336Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
     {
       "section": "STARTUPS",
-      "title": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report - The Economic Times",
-      "what": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report &nbsp;&nbsp; The Economic Times",
+      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
+      "impact": "Potentially positive",
       "model": "Review purchase price, funding, synergies and accretion/dilution.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWN4b2ZUeXpDdXM4aXI5WVA0ajRJdzRlVTlnUklVVkRIV1VsM3hfWWtJWi1EZlVVaGtCbGcyTmlpemx5XzJEVHRiLXVVcF9oSVlxSEtQTXVyWW1zSUd6QVZfUFlkNTl0aGFQZU5uYkRmdk8yX2NwNFp5SXJQNmJfWUdyYXJtQ21kVHBCUU9lRGhac2JVY1JJalRWSVg2amVGQTJvNElSVEhCbXFfYnpmZW4zRjFudkRHV0RTRHZMQ1l3c0c2YzU2aEppZXRVWjJRbTFvbGNlcjdKMVJaYlhYaElXcjA5VkNzN0hyVtIB8gFBVV95cUxPallUNXc1WndDajN2WGdUYmMtYkJrbnhnVlVwZWh1RlpaT21pbk1iMTZNWVE4bk9hX3RTZy1pcVBFXy1qaTR0S2M5ZnMxSTNXTjJzZ0RuUm9sX2ZfZEExZWx4Q0R6QnA3Q3cwODN2T0cwSFp1THlBcVdkMGswMS1wUkt6UFdiQkV0cnpKRHhDRDJGTWEwZ2gxOHRIaHZJWWxyblZ4ZFp3bGVTUUJkUVAtcEs3ZTdNV0c3Zl9QUTlVYXF4U2J2MXpzRnpPWUdmeU1xMlVCb1E3T2c2ZUViYTJqWVN0TnVoRFJJWFduZ2kzS0E4UQ?oc=5",
-      "image": "https://m.economictimes.com"
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
+      "image": "https://bfsi.economictimes.indiatimes.com"
     },
     {
       "section": "M&A",
@@ -28,21 +28,9 @@
       "image": "https://www.business-standard.com"
     },
     {
-      "section": "IT",
-      "title": "Indian IT stocks TCS, Wipro, Mphasis and peers extend gains after rupee makes new low of 90.42 - CNBC TV18",
-      "what": "Indian IT stocks TCS, Wipro, Mphasis and peers extend gains after rupee makes new low of 90.42 &nbsp;&nbsp; CNBC TV18",
-      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
-      "impact": "Mixed / needs context",
-      "model": "Review FX sensitivity and reported revenue assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaExISklFMS1sMXpiZVFMeGZ4NG52VTVPSjVUanZhTm1hai1VQTlBekV0Mm1qSkd2MUxwV1gzT0hKSWo3dmIzVGtiNmlQUlFSTEhlbUZCdkR2d3VYOTZUdU0zd1R6ZE5KZklnUWpYN2dkZWFVaW12eGlTRmtISEhFVUtMUGtwS2Q0V0t5SDRHWWV4ZDM4WVJNd2ZHdllUSmIyYTVFbzR3MXp1anVvYnAwOWFKN3VqcmNXLXZIdWNPSngxMUxwZ25ublVRaS1EYjVVQlgyeWxR0gHbAUFVX3lxTE94akhPemVkRWhnT2JrNG1uVVBKbjRjT2FKSkZyS2NrVkhYS3AwdFZvcW42NHJ0b1RFcVVfSGdEQU9GY1NINlh2UWhjc0pYdjNFX19TdHFJMEs2TVpFaXBweXBraXJLMFllRTNLOWxqVEpsMmxTMXIxQ3ZwYWJ5cHFPaDlrUGU0dEozN1VjX2gtR01tYTRibWtDVHBtSDZVYThDZExKa0VFdmRJNGlrQW5pSlpkdVplNWl4a2hpLUZiakRMUEszYllKWGQ4WTBNS05lZzE2ZGZVazZqOA?oc=5",
-      "image": "https://www.cnbctv18.com"
-    },
-    {
       "section": "M&A",
-      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - ET BFSI",
-      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; ET BFSI",
+      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -53,20 +41,8 @@
     },
     {
       "section": "M&A",
-      "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
-      "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
-      "image": "https://cfo.economictimes.indiatimes.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Mergers and Acquisitions in India: Strategies for Growth and Success - india-briefing.com",
-      "what": "Mergers and Acquisitions in India: Strategies for Growth and Success &nbsp;&nbsp; india-briefing.com",
+      "title": "Mergers and Acquisitions in India: Strategies for Growth and Success - India Briefing",
+      "what": "Mergers and Acquisitions in India: Strategies for Growth and Success &nbsp;&nbsp; India Briefing",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -77,15 +53,15 @@
     },
     {
       "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
-      "image": "https://www.cnbctv18.com"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
+      "image": "https://www.business-standard.com"
     },
     {
       "section": "M&A",
@@ -112,18 +88,6 @@
       "image": "https://www.indiaipo.in"
     },
     {
-      "section": "IT",
-      "title": "Nifty IT surges 3%: TCS, Infosys, LTM, HCLTech shares climb after Nvidia's strong results - BusinessToday - IndiaIPO",
-      "what": "Nifty IT surges 3%: TCS, Infosys, LTM, HCLTech shares climb after Nvidia's strong results - BusinessToday &nbsp;&nbsp; IndiaIPO",
-      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzlPWUFDQ2ZDaHAyM3k2SG1YSE1DZGk4WEwtTS1PZHlPLW5ZLXh3QkFsbV9Xb3JCdGpETFNaTi1kSmh5U1ZvZjg4VzI0bTBtQmNWaGZxaTdmQi0yeEtiZmo5N1pCRG93WVU0Q3h4WnJpeERpTnY1UUhEaWFTNkZuWTRDNnhRXzVjWmJoLVdYVXNqS3RQM2RxM3c2cjNBblhCOUZZSERLUWdLd1hITVpYSzlSc1dYNHoya0RoeWlibE53d1ZtakRzY05obFBvdw?oc=5",
-      "image": "https://www.indiaipo.in"
-    },
-    {
       "section": "STARTUPS",
       "title": "Funding and acquisitions in Indian startup this week [Nov 03- Nov 08] - Entrackr",
       "what": "Funding and acquisitions in Indian startup this week [Nov 03- Nov 08] &nbsp;&nbsp; Entrackr",
@@ -146,6 +110,42 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaFRyTEx2TE52Y0s2aElJb2hNZ1A2SmFvaWRqbGNDU294eGNxYkU3M0J4M3NzdFZkQjN5X0tDSVFPTmhxdkhVQmlLLU00U2dLRTBBVEIzaTBTVG1QN3FxYnluaGVKU0J6S1d2X0k0MXFLOUw2RkxwVGtxMko1dmtMNGM4b2Uza0s5eWNKQXJsT2lXZmxnQ1VsZDNsSVlBRFJOMXNLVl9CMGdOcVk0cm9Wc1g3OEFpalNoS1VFbEQtVFFlR2ZuZkJDMlhuRzRVV21uWlZKQmNVTVhCb1FjOUFfQ0xFbXg1OElxbmw1bnJMRTllbkc0VlRWQzdrOWR5eWvSAYQCQVVfeXFMUFZULVc1cG1qaks5Nmtic2RORmNvN3FTTmpxb3hyTThBRFVTc3RSeUpYUkxMUG8yZ25KczN5YlFEZ0owNVJRcHJhRHlIdXBudVV4RGM2N0l0bDdCM0ZxN2Y5ZEpQeXNlakFqU1NNeDhMLUFmanB1TVhUdkpoV21LYXJSTGFQVjlLVDA1eXljLWpXU2x3Zl93TFJ3YTVyeHJ1OXYxaE9RYjNvdFl6OUV6WkNMdGQzcmVIZ3lIcXlMYW5PeFg4aFl2NkFVUVJOd1FfU1dlNzJkRVJYUnJmRjZoMTU3YWRlb2w2eDl6OXd3eU9kNTgzSlNrVjNyOFJqbTNoZjN5eUs?oc=5",
       "image": "https://cfo.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Five Indian startup acquisitions that created billion-dollar value - ET Edge Insights",
+      "what": "Five Indian startup acquisitions that created billion-dollar value &nbsp;&nbsp; ET Edge Insights",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEUyeXFzOUMzR1hkaVVTV1laR3hGYTJ2NW1pdFhjZ0dEVXF2UVV1dllFQlNmOHd2eTFFSzBDRkw0ZnVTZGdvSldqYzAySE9uT0FNX3lmUXVCYlJqY2VDN3B6MnlkZFBBWjhEUzg2TDBGOHcxMHNLOXZfTkdhQW0wYm1LNUVhV3NPTVpEcWFueEdLSllUM0locWdsMklhbFBm?oc=5",
+      "image": "https://etedge-insights.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A Titans: Top 30 Pioneers driving India’s Mega Deals - Indian Startup Times",
+      "what": "M&A Titans: Top 30 Pioneers driving India’s Mega Deals &nbsp;&nbsp; Indian Startup Times",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjlVdGhUT0FmYnp5WnNXSkNRRU5RY1ZCSnlPaTRjZnFUTmllZ0xZbFEyc0VLVGcwa0F2VWdEcnN3Y1NwRkk0aWs4b005UE5ZNXNpVTB0TUZLdmJkTHhiZ3NTall6RTB3a3lKSkdEcFV4NkFGdVZHUkpMZFBFMDlncC1pU25rejZIbFRJZnp1eVBpaXJKVWVj?oc=5",
+      "image": "https://www.indianstartuptimes.com"
+    },
+    {
+      "section": "STARTUPS",
+      "title": "India’s startup landscape is witnessing a powerful homecoming, as some of its biggest names are reversing earlier decisions to incorporate overseas. In a trend popularly called \"Reverse Flipping,\" companies like Dream11, PhonePe, Groww, Zepto, Meesho, a - LinkedIn",
+      "what": "India’s startup landscape is witnessing a powerful homecoming, as some of its biggest names are reversing earlier decisions to incorporate overseas. In a trend popularly called \"Reverse Flipping,\" companies like Dream11, PhoneP…",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjd1dnFDczJtX1RBWkxSem5tSTdqeHJkVWtaVWxYcW5XaF9EZE45ZmpIVk1kQVExQUs4bnpzZmVmLTljR1lZUGtsX3p3UG1ZQUU1MWVTNElxNDd5cFhVcVAxdEM2MDlyVEc4alJUQXlMS0ExWTdwbDdpTThDanVacVl1WDJWZWNRMjlzdmRpV3RPejhRUUNKWDNWWDU1ZjF0c1NaQkc2LVAwaHh2UFpDVXlUdlBmS05xak80N3VuaE5yUFdNcGVnU0h3?oc=5",
+      "image": "https://www.linkedin.com"
     }
   ],
   "cfa": {
