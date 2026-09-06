@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-05T03:40:06.197Z",
+  "updated_at": "2026-09-06T03:40:54.170Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
     {
       "section": "STARTUPS",
-      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - ET BFSI",
-      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; ET BFSI",
+      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Potentially positive",
       "model": "Review purchase price, funding, synergies and accretion/dilution.",
@@ -16,9 +16,21 @@
       "image": "https://bfsi.economictimes.indiatimes.com"
     },
     {
+      "section": "STARTUPS",
+      "title": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report - The Economic Times",
+      "what": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report &nbsp;&nbsp; The Economic Times",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWN4b2ZUeXpDdXM4aXI5WVA0ajRJdzRlVTlnUklVVkRIV1VsM3hfWWtJWi1EZlVVaGtCbGcyTmlpemx5XzJEVHRiLXVVcF9oSVlxSEtQTXVyWW1zSUd6QVZfUFlkNTl0aGFQZU5uYkRmdk8yX2NwNFp5SXJQNmJfWUdyYXJtQ21kVHBCUU9lRGhac2JVY1JJalRWSVg2amVGQTJvNElSVEhCbXFfYnpmZW4zRjFudkRHV0RTRHZMQ1l3c0c2YzU2aEppZXRVWjJRbTFvbGNlcjdKMVJaYlhYaElXcjA5VkNzN0hyVtIB8gFBVV95cUxPallUNXc1WndDajN2WGdUYmMtYkJrbnhnVlVwZWh1RlpaT21pbk1iMTZNWVE4bk9hX3RTZy1pcVBFXy1qaTR0S2M5ZnMxSTNXTjJzZ0RuUm9sX2ZfZEExZWx4Q0R6QnA3Q3cwODN2T0cwSFp1THlBcVdkMGswMS1wUkt6UFdiQkV0cnpKRHhDRDJGTWEwZ2gxOHRIaHZJWWxyblZ4ZFp3bGVTUUJkUVAtcEs3ZTdNV0c3Zl9QUTlVYXF4U2J2MXpzRnpPWUdmeU1xMlVCb1E3T2c2ZUViYTJqWVN0TnVoRFJJWFduZ2kzS0E4UQ?oc=5",
+      "image": "https://m.economictimes.com"
+    },
+    {
       "section": "M&A",
-      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - Business Standard",
-      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; Business Standard",
+      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - business-standard.com",
+      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -29,8 +41,8 @@
     },
     {
       "section": "M&A",
-      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - ET BFSI",
-      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; ET BFSI",
+      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -41,8 +53,8 @@
     },
     {
       "section": "M&A",
-      "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - The Times of India",
-      "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; The Times of India",
+      "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - timesofindia.indiatimes.com",
+      "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; timesofindia.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -50,18 +62,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
       "image": "https://timesofindia.indiatimes.com"
-    },
-    {
-      "section": "M&A",
-      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
-      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
-      "image": "https://www.aninews.in"
     },
     {
       "section": "M&A",
@@ -89,18 +89,6 @@
     },
     {
       "section": "M&A",
-      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
-      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
-      "image": "https://www.business-standard.com"
-    },
-    {
-      "section": "M&A",
       "title": "Using M&A as Corporate Strategy to Deal with Digital Disrupters in India - India Briefing",
       "what": "Using M&A as Corporate Strategy to Deal with Digital Disrupters in India &nbsp;&nbsp; India Briefing",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -113,8 +101,20 @@
     },
     {
       "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - cnbctv18.com",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; cnbctv18.com",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - business-standard.com",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; business-standard.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
+      "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
+      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -122,18 +122,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
       "image": "https://www.cnbctv18.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Big-ticket M&A deals drive India Inc’s over $25 billion corporate consolidation in 2025 - financialexpress.com",
-      "what": "Big-ticket M&A deals drive India Inc’s over $25 billion corporate consolidation in 2025 &nbsp;&nbsp; financialexpress.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPalBxXzdLbTZpWFZ2R2FtWF9wakNYcWxiUTlXQTNmcE5rTVgybnE0eU9fMFdUanBzR3BNdzBLUjZwTlNIdG0xTmRHemV1N2RxOTVBWjYwZWNLRjg4emNyOE03bFhvWlptLTJzbTZYWm1kaE42c3p6bGFIR2ppSVozeDFxWVA1MFJ1TUptc1VuZHVXZy11bFJqSURJRHBkaEtIRU85bzc3UWcySjN0S2NrYm1GUG9kX2hvMmFaV2xsbEZVamlZRERxbDJkSkR2dzhvcEhXekVwSUNTLVHSAeIBQVVfeXFMUFIySHE4TkxUU3l5bEp5TDY5Y1pyRjFJWnRMRVVvbnRoaTRQQzJDbjNGTEJLdElZSkhBNURYd2pqYW1UblBlOUQyVUpQdDlnWDdTTEV6am9jZXpwXzVHRUhsMDZPOTJaS3JaTC1SYXJLM2lrQWlEcUhKOHYwWTcxV0RPM3l4Mndydm0wUHJjYTE2T3FydVNhVkFUVzBsd3RNYnRXTFBQMUdobGtpRHRuMjNuOUwzdEpxQXhWUUpKLXlxTXJzRFdJMVg3RkJLNS1XS3RvR0FuVmRZMU5DOUpKMmREZw?oc=5",
-      "image": "https://www.financialexpress.com"
     },
     {
       "section": "IT",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjhYakRDUk9uN1YxZmxKWHRQa0tHdExyb1RQUzRDTEdDdlZ4WGZnTEQyQUJVdTBzODNZTXRFcmdxbVJJV2k5T2gtcW4weTFYX2tqNUtZbl80a2VscmE1TFJQR1E0WDBVSVpySTBGUlFaMzRGR3VyZHhQc2NYb0YtUXR6RmsxY2JZamlhckJoZUxkQ2ljRUtmREZVWUZzVllmNHhR?oc=5",
       "image": "https://www.indiaipo.in"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge - cfo.economictimes.indiatimes.com",
+      "what": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaFRyTEx2TE52Y0s2aElJb2hNZ1A2SmFvaWRqbGNDU294eGNxYkU3M0J4M3NzdFZkQjN5X0tDSVFPTmhxdkhVQmlLLU00U2dLRTBBVEIzaTBTVG1QN3FxYnluaGVKU0J6S1d2X0k0MXFLOUw2RkxwVGtxMko1dmtMNGM4b2Uza0s5eWNKQXJsT2lXZmxnQ1VsZDNsSVlBRFJOMXNLVl9CMGdOcVk0cm9Wc1g3OEFpalNoS1VFbEQtVFFlR2ZuZkJDMlhuRzRVV21uWlZKQmNVTVhCb1FjOUFfQ0xFbXg1OElxbmw1bnJMRTllbkc0VlRWQzdrOWR5eWvSAYQCQVVfeXFMUFZULVc1cG1qaks5Nmtic2RORmNvN3FTTmpxb3hyTThBRFVTc3RSeUpYUkxMUG8yZ25KczN5YlFEZ0owNVJRcHJhRHlIdXBudVV4RGM2N0l0bDdCM0ZxN2Y5ZEpQeXNlakFqU1NNeDhMLUFmanB1TVhUdkpoV21LYXJSTGFQVjlLVDA1eXljLWpXU2x3Zl93TFJ3YTVyeHJ1OXYxaE9RYjNvdFl6OUV6WkNMdGQzcmVIZ3lIcXlMYW5PeFg4aFl2NkFVUVJOd1FfU1dlNzJkRVJYUnJmRjZoMTU3YWRlb2w2eDl6OXd3eU9kNTgzSlNrVjNyOFJqbTNoZjN5eUs?oc=5",
+      "image": "https://cfo.economictimes.indiatimes.com"
     }
   ],
   "cfa": {
