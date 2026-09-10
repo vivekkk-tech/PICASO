@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T08:19:57.085Z",
+  "updated_at": "2026-09-10T08:20:37.001Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -14,18 +14,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report - The Economic Times",
-      "what": "Indian unicorns hit $385 billion valuation in 2024 amid surge in IPOs, acquisitions: report &nbsp;&nbsp; The Economic Times",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWN4b2ZUeXpDdXM4aXI5WVA0ajRJdzRlVTlnUklVVkRIV1VsM3hfWWtJWi1EZlVVaGtCbGcyTmlpemx5XzJEVHRiLXVVcF9oSVlxSEtQTXVyWW1zSUd6QVZfUFlkNTl0aGFQZU5uYkRmdk8yX2NwNFp5SXJQNmJfWUdyYXJtQ21kVHBCUU9lRGhac2JVY1JJalRWSVg2amVGQTJvNElSVEhCbXFfYnpmZW4zRjFudkRHV0RTRHZMQ1l3c0c2YzU2aEppZXRVWjJRbTFvbGNlcjdKMVJaYlhYaElXcjA5VkNzN0hyVtIB8gFBVV95cUxPallUNXc1WndDajN2WGdUYmMtYkJrbnhnVlVwZWh1RlpaT21pbk1iMTZNWVE4bk9hX3RTZy1pcVBFXy1qaTR0S2M5ZnMxSTNXTjJzZ0RuUm9sX2ZfZEExZWx4Q0R6QnA3Q3cwODN2T0cwSFp1THlBcVdkMGswMS1wUkt6UFdiQkV0cnpKRHhDRDJGTWEwZ2gxOHRIaHZJWWxyblZ4ZFp3bGVTUUJkUVAtcEs3ZTdNV0c3Zl9QUTlVYXF4U2J2MXpzRnpPWUdmeU1xMlVCb1E3T2c2ZUViYTJqWVN0TnVoRFJJWFduZ2kzS0E4UQ?oc=5",
-      "image": "https://m.economictimes.com"
     },
     {
       "section": "M&A",
@@ -77,8 +65,20 @@
     },
     {
       "section": "M&A",
-      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
-      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
+      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
+      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
+      "image": "https://www.fortuneindia.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - aninews.in",
+      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; aninews.in",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -101,27 +101,15 @@
     },
     {
       "section": "M&A",
-      "title": "Mergers and Acquisitions in India: Strategies for Growth and Success - India Briefing",
-      "what": "Mergers and Acquisitions in India: Strategies for Growth and Success &nbsp;&nbsp; India Briefing",
+      "title": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities - The Wire India",
+      "what": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities &nbsp;&nbsp; The Wire India",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkJVS1ZpVzNUdHM2UVFHQTFvR3FvMTIxT3FYaWtpRXVvREtZQU14eHBpUWpEcjcwN2VEeE5WNFQyMHhLUkVFUE5QXzlDN0RGNWNtU2VfRnpzOW0teXRxZ24tcHhWWWlVLTVzdlBGMFdnODh4ekpzODk0Zk5nQjJOVG9KTktpbHVfcHQ2OWVCRVZtbzhsZ0haSm5Mb2VzdUFLdHRjZzdYTQ?oc=5",
-      "image": "https://www.india-briefing.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - cnbctv18.com",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; cnbctv18.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
-      "image": "https://www.cnbctv18.com"
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYVU1eXpvaGlFV19qOXhsZ21fd2VQeW5la2pXeXctUHgwQnVuUWhWWUQ4Y01zMVRzbm5EYVhIN1l4UWhEVkh6bTNWNGVuSklzX0dRRXdJOXFaRTY1S3FnOXduQk82cnlHa0pGTWd3enB3SGJUc0Z2Q3VEaE8zZEFaY0lhQjNQem1hc19abzBxSFVHaUJKNnlxaVFtM3p0WTE5VmdfNTZGOG82Z3BCVGhOZVNPX2FoUDQ5LWF5blo3bXhOTk5PMUJUTEl2YWZxRFJrcGZDcUZ0UGFwZWM3ZlJyVVRkOC10UGpDQm84LUJlYkhfR1p3eWJETWZkZ3ZYb0diWGxYRERld3NlZ0VwbnlIYi01Q0taVno4cXJZdkNMX0gtU0NZTGNF0gGsAkFVX3lxTE9hcnltb1ZxMGRnd0tRdWFoVDc4RThtVjZTSWFqXzQ2UGxKd2Z0c3E5ekg3d2FibmxmOGdnZ1lUdzhSclptWUIwWnVnVjBvZ1RyV2V4Qm5OOUwzN0QxbFBZVUY3M0pJblNpemlrZXVMRjQyQ29TbUVVVVEtY0VoREF1VTN2NmZlOFJRY1RyQnNPZW5WeWFLQWd1OUNMdEtWNXhweEhyOXNtZjkxYjNIamFVU0VjU01CNTBHMFpBcjNTdG9WMklNY01uQnhUMXZGT1dVRERNRHFnYnhicWZQeTRFanNPOXRHdFhYdTdydURJcl9Ka2VQVDM3YTBvdnJHSlJmUEc1cFVZdEE2RVBpRXBJWXVIYk9sRG9pc1djVDRVdncyTDZjY0FHelJMSg?oc=5",
+      "image": "https://m.thewire.in"
     },
     {
       "section": "M&A",
@@ -134,6 +122,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFBYekJFSjhHb3JBclpWaHlmTWdEbXFYZ1pic1R1MkZYajE0QlB6OFlzeEdRcE5yVTlwSzV6OUtVbjFlbFhWOGhZejIxUXRyUWxVZmZUTmt5S05heUphcGRib2laWFFjNGc5cUJ0SVJrYlFUTEJFSUdMZnhOeEZJZDNJZHRsTlo5SlE?oc=5",
       "image": "https://www.vccircle.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
+      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
+      "image": "https://www.cnbctv18.com"
     },
     {
       "section": "M&A",
