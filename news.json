@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:14:36.714Z",
+  "updated_at": "2026-09-12T08:05:09.089Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -17,8 +17,8 @@
     },
     {
       "section": "M&A",
-      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - Business Standard",
-      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; Business Standard",
+      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - business-standard.com",
+      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -29,8 +29,8 @@
     },
     {
       "section": "M&A",
-      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
-      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
+      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - business-standard.com",
+      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -113,20 +113,8 @@
     },
     {
       "section": "M&A",
-      "title": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities - The Wire India",
-      "what": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities &nbsp;&nbsp; The Wire India",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYVU1eXpvaGlFV19qOXhsZ21fd2VQeW5la2pXeXctUHgwQnVuUWhWWUQ4Y01zMVRzbm5EYVhIN1l4UWhEVkh6bTNWNGVuSklzX0dRRXdJOXFaRTY1S3FnOXduQk82cnlHa0pGTWd3enB3SGJUc0Z2Q3VEaE8zZEFaY0lhQjNQem1hc19abzBxSFVHaUJKNnlxaVFtM3p0WTE5VmdfNTZGOG82Z3BCVGhOZVNPX2FoUDQ5LWF5blo3bXhOTk5PMUJUTEl2YWZxRFJrcGZDcUZ0UGFwZWM3ZlJyVVRkOC10UGpDQm84LUJlYkhfR1p3eWJETWZkZ3ZYb0diWGxYRERld3NlZ0VwbnlIYi01Q0taVno4cXJZdkNMX0gtU0NZTGNF0gGsAkFVX3lxTE9hcnltb1ZxMGRnd0tRdWFoVDc4RThtVjZTSWFqXzQ2UGxKd2Z0c3E5ekg3d2FibmxmOGdnZ1lUdzhSclptWUIwWnVnVjBvZ1RyV2V4Qm5OOUwzN0QxbFBZVUY3M0pJblNpemlrZXVMRjQyQ29TbUVVVVEtY0VoREF1VTN2NmZlOFJRY1RyQnNPZW5WeWFLQWd1OUNMdEtWNXhweEhyOXNtZjkxYjNIamFVU0VjU01CNTBHMFpBcjNTdG9WMklNY01uQnhUMXZGT1dVRERNRHFnYnhicWZQeTRFanNPOXRHdFhYdTdydURJcl9Ka2VQVDM3YTBvdnJHSlJmUEc1cFVZdEE2RVBpRXBJWXVIYk9sRG9pc1djVDRVdncyTDZjY0FHelJMSg?oc=5",
-      "image": "https://m.thewire.in"
-    },
-    {
-      "section": "M&A",
-      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
-      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - business-standard.com",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -137,8 +125,8 @@
     },
     {
       "section": "M&A",
-      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
-      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
+      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - livemint.com",
+      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; livemint.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHgtdUpvRFhyNk1ua3ZreXh1QVkzSDRFMDgxRmRXYnpjUlRRS0piZ3hvSV8wZHV1NU1BamtkUGxsYi1yVFVyWERYN3BJMzZ6aHVsWlN0OXZEbF9rdE1IeVdNbE90VzVHSmFVTW9FRXc3ejNkakZMY3ZkUDFiNk4yckduYmxkclpnX29qNmlrZWRXZkM3MWhWbzd6Nm12RkVseTdKZmFZT0pyR2oz0gGyAUFVX3lxTE5WWEdtdFhVbHdwZVpJZnNUamRaSW5sWVQ5U0c0SlNJWEVUU2pSOVRxV1l4RmZwVm9Qel9OM3NaMkFIWTZYSURYUTNGVm1Sc2lRU01leWhER3ZHSWJSWW5qSHNYTGs3VDhoNGxRT1VQTG5vR2MzVVo4ZFJTWnhSbHBNejRRbkJtb19lR3p0REV6ajV1dDU3MzRxSG1POXdmWm5jX0NLVjk4ODJmVnZKZjFmaEE?oc=5",
       "image": "https://www.livemint.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - VCCircle",
+      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; VCCircle",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFBYekJFSjhHb3JBclpWaHlmTWdEbXFYZ1pic1R1MkZYajE0QlB6OFlzeEdRcE5yVTlwSzV6OUtVbjFlbFhWOGhZejIxUXRyUWxVZmZUTmt5S05heUphcGRib2laWFFjNGc5cUJ0SVJrYlFUTEJFSUdMZnhOeEZJZDNJZHRsTlo5SlE?oc=5",
+      "image": "https://www.vccircle.com"
     }
   ],
   "cfa": {
