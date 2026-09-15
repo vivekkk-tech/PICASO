@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T09:11:59.245Z",
+  "updated_at": "2026-09-15T08:54:03.632Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,18 +29,6 @@
     },
     {
       "section": "M&A",
-      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
-      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3NfZEVyZ2hEczhqVnlxd3lRcmZ3VS1qQmRyZzFveXh2XzlVblFnOEhxMGVid0pDTl85YVBEOWE0ZURJNFJmN2JrQmFvM0Y5SzM3eVJuT1Z2cWNxWHlzTzRmU2lhc2IyNkZ3eDZmeGpmQ3FCdFBnR2EtMzk1ZHlkbW5xSUFaRnBWQ3hEMzAyZnlwYm51MkloS2FaWGNGLWl0UjdncFEzU2RyV3VtSjhyM1NUSHdaaHJWOFI2NjdUUEVLOTZ0bndPaUpGM091T3hTVXAybHMxU19kZXhVTjhJMm5WZlA5Z3o0d2t2Wk5HdGQ1RFR3bDQtd9IB_gFBVV95cUxNcTFaaFJ4eDVjZ3Z4UkhRcmRvdWN0TnRWU05sbGpUUWlzc0NEQldOMVZEN2xDdUFaZ0NzT3FvOFNoREQxQWpYelNERk85V3NTUmVnb3N4VWRGNEpZN0luLUtJX0FlR29XUXBjZld1S1daWUM0ZF9UbXRiWi1mYlR3ZDZESDFsbms2elN6UjYxLTRsc2ZFdk9vMjhBMHNiOElFTDQycWtiVGdwRFd4a05kR2RhWlRGWUJ3QlpEUEhWS2ZiOXdSaUtabGJwdTA4eVpFLUVhYWE1NlJUQng2NFJxN2l5ak1uZndLb2FEZkN2RDlKX3hQc1dDbDVsaGdsUQ?oc=5",
-      "image": "https://www.business-standard.com"
-    },
-    {
-      "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
       "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -50,6 +38,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
+      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3NfZEVyZ2hEczhqVnlxd3lRcmZ3VS1qQmRyZzFveXh2XzlVblFnOEhxMGVid0pDTl85YVBEOWE0ZURJNFJmN2JrQmFvM0Y5SzM3eVJuT1Z2cWNxWHlzTzRmU2lhc2IyNkZ3eDZmeGpmQ3FCdFBnR2EtMzk1ZHlkbW5xSUFaRnBWQ3hEMzAyZnlwYm51MkloS2FaWGNGLWl0UjdncFEzU2RyV3VtSjhyM1NUSHdaaHJWOFI2NjdUUEVLOTZ0bndPaUpGM091T3hTVXAybHMxU19kZXhVTjhJMm5WZlA5Z3o0d2t2Wk5HdGQ1RFR3bDQtd9IB_gFBVV95cUxNcTFaaFJ4eDVjZ3Z4UkhRcmRvdWN0TnRWU05sbGpUUWlzc0NEQldOMVZEN2xDdUFaZ0NzT3FvOFNoREQxQWpYelNERk85V3NTUmVnb3N4VWRGNEpZN0luLUtJX0FlR29XUXBjZld1S1daWUM0ZF9UbXRiWi1mYlR3ZDZESDFsbms2elN6UjYxLTRsc2ZFdk9vMjhBMHNiOElFTDQycWtiVGdwRFd4a05kR2RhWlRGWUJ3QlpEUEhWS2ZiOXdSaUtabGJwdTA4eVpFLUVhYWE1NlJUQng2NFJxN2l5ak1uZndLb2FEZkN2RDlKX3hQc1dDbDVsaGdsUQ?oc=5",
+      "image": "https://www.business-standard.com"
     },
     {
       "section": "M&A",
@@ -113,18 +113,6 @@
     },
     {
       "section": "M&A",
-      "title": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities - The Wire India",
-      "what": "Imperial Executive Education, Emeritus Launch Mergers and Acquisitions: Corporate Restructuring & Strategy Programme, Equipping Leaders with Strategic M&A Capabilities &nbsp;&nbsp; The Wire India",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYVU1eXpvaGlFV19qOXhsZ21fd2VQeW5la2pXeXctUHgwQnVuUWhWWUQ4Y01zMVRzbm5EYVhIN1l4UWhEVkh6bTNWNGVuSklzX0dRRXdJOXFaRTY1S3FnOXduQk82cnlHa0pGTWd3enB3SGJUc0Z2Q3VEaE8zZEFaY0lhQjNQem1hc19abzBxSFVHaUJKNnlxaVFtM3p0WTE5VmdfNTZGOG82Z3BCVGhOZVNPX2FoUDQ5LWF5blo3bXhOTk5PMUJUTEl2YWZxRFJrcGZDcUZ0UGFwZWM3ZlJyVVRkOC10UGpDQm84LUJlYkhfR1p3eWJETWZkZ3ZYb0diWGxYRERld3NlZ0VwbnlIYi01Q0taVno4cXJZdkNMX0gtU0NZTGNF0gGsAkFVX3lxTE9hcnltb1ZxMGRnd0tRdWFoVDc4RThtVjZTSWFqXzQ2UGxKd2Z0c3E5ekg3d2FibmxmOGdnZ1lUdzhSclptWUIwWnVnVjBvZ1RyV2V4Qm5OOUwzN0QxbFBZVUY3M0pJblNpemlrZXVMRjQyQ29TbUVVVVEtY0VoREF1VTN2NmZlOFJRY1RyQnNPZW5WeWFLQWd1OUNMdEtWNXhweEhyOXNtZjkxYjNIamFVU0VjU01CNTBHMFpBcjNTdG9WMklNY01uQnhUMXZGT1dVRERNRHFnYnhicWZQeTRFanNPOXRHdFhYdTdydURJcl9Ka2VQVDM3YTBvdnJHSlJmUEc1cFVZdEE2RVBpRXBJWXVIYk9sRG9pc1djVDRVdncyTDZjY0FHelJMSg?oc=5",
-      "image": "https://m.thewire.in"
-    },
-    {
-      "section": "M&A",
       "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - India Briefing",
       "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; India Briefing",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
       "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
+      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHgtdUpvRFhyNk1ua3ZreXh1QVkzSDRFMDgxRmRXYnpjUlRRS0piZ3hvSV8wZHV1NU1BamtkUGxsYi1yVFVyWERYN3BJMzZ6aHVsWlN0OXZEbF9rdE1IeVdNbE90VzVHSmFVTW9FRXc3ejNkakZMY3ZkUDFiNk4yckduYmxkclpnX29qNmlrZWRXZkM3MWhWbzd6Nm12RkVseTdKZmFZT0pyR2oz0gGyAUFVX3lxTE5WWEdtdFhVbHdwZVpJZnNUamRaSW5sWVQ5U0c0SlNJWEVUU2pSOVRxV1l4RmZwVm9Qel9OM3NaMkFIWTZYSURYUTNGVm1Sc2lRU01leWhER3ZHSWJSWW5qSHNYTGs3VDhoNGxRT1VQTG5vR2MzVVo4ZFJTWnhSbHBNejRRbkJtb19lR3p0REV6ajV1dDU3MzRxSG1POXdmWm5jX0NLVjk4ODJmVnZKZjFmaEE?oc=5",
+      "image": "https://www.livemint.com"
     }
   ],
   "cfa": {
