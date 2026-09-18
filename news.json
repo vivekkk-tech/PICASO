@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:50:59.557Z",
+  "updated_at": "2026-09-18T08:26:42.127Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -14,18 +14,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - Business Standard",
-      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; Business Standard",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdWwzQTdYRjRXc3pqd1RQdlJXbG5fRjd4N2FjMTByNy16SEdKUjNnODh6M3NsVW9qZ19pSS1NaFZadDJwOC0yckV0Tk5xNlQ3Yk1ubjhRZjZLcDlGRGRxbDkwbmFMdEJGRVpXaTlwQmQtTnZ4d2tkSXFCdkNqSVJoN28tbFBaSEt5Y2F6ck5aVU1YaEQ4VFdNd0lGRU53c1YxQnlZZUZPQVRzeVVkM0RERDVlS3E1WVFKVUp0eVFxdGUtRDBISmUzRktKUlpoVkhqVUNQM3QyWmctUdIB3wFBVV95cUxNVlZ0UGIzSGxuZEhVZlpWbkVrTE5NNTE5dHg5dzhoR09SVDFsWXJ0MTB1cjd2d0tBNjhiZmJrODdfR2o0NnlGZ3BnZjJZR25Pc0NOQ0NhbzlBVTNuTDEyeTd4VWlYZWlPdFFUaEVlQVJJQ2NWZi01MzVrcXh6TG1kaFlHR1JQbi03azdBUDVDLW5OLVVLSmVHQ2tmc2FJWlAxc1dqblA3OXFoQ3laWEpKb0wtVHdWWkg2eHNhUXJfMWN5UjVwUmx3VlQxUFhmdXJPRGdDODZib3pJY1k2bzI4?oc=5",
-      "image": "https://www.business-standard.com"
     },
     {
       "section": "M&A",
@@ -65,8 +53,8 @@
     },
     {
       "section": "M&A",
-      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
-      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
+      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - fortuneindia.com",
+      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; fortuneindia.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -77,8 +65,8 @@
     },
     {
       "section": "M&A",
-      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
-      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
+      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - business-standard.com",
+      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -137,8 +125,8 @@
     },
     {
       "section": "M&A",
-      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
-      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - business-standard.com",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; business-standard.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
       "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
+      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHgtdUpvRFhyNk1ua3ZreXh1QVkzSDRFMDgxRmRXYnpjUlRRS0piZ3hvSV8wZHV1NU1BamtkUGxsYi1yVFVyWERYN3BJMzZ6aHVsWlN0OXZEbF9rdE1IeVdNbE90VzVHSmFVTW9FRXc3ejNkakZMY3ZkUDFiNk4yckduYmxkclpnX29qNmlrZWRXZkM3MWhWbzd6Nm12RkVseTdKZmFZT0pyR2oz0gGyAUFVX3lxTE5WWEdtdFhVbHdwZVpJZnNUamRaSW5sWVQ5U0c0SlNJWEVUU2pSOVRxV1l4RmZwVm9Qel9OM3NaMkFIWTZYSURYUTNGVm1Sc2lRU01leWhER3ZHSWJSWW5qSHNYTGs3VDhoNGxRT1VQTG5vR2MzVVo4ZFJTWnhSbHBNejRRbkJtb19lR3p0REV6ajV1dDU3MzRxSG1POXdmWm5jX0NLVjk4ODJmVnZKZjFmaEE?oc=5",
+      "image": "https://www.livemint.com"
     }
   ],
   "cfa": {
