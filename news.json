@@ -1,12 +1,157 @@
 {
-  "updated_at": "2026-09-20T08:46:36.300Z",
+  "updated_at": "2026-09-21T09:14:33.388Z",
   "edition": "PICASO — Daily Finance Brief",
-  "status": "no_fresh_stories",
-  "stories": [],
+  "status": "live",
+  "stories": [
+    {
+      "section": "STARTUPS",
+      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Potentially positive",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
+      "image": "https://bfsi.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - Business Standard",
+      "what": "Can cheaper bank funding spark India's next M&A cycle after RBI move? &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdWwzQTdYRjRXc3pqd1RQdlJXbG5fRjd4N2FjMTByNy16SEdKUjNnODh6M3NsVW9qZ19pSS1NaFZadDJwOC0yckV0Tk5xNlQ3Yk1ubjhRZjZLcDlGRGRxbDkwbmFMdEJGRVpXaTlwQmQtTnZ4d2tkSXFCdkNqSVJoN28tbFBaSEt5Y2F6ck5aVU1YaEQ4VFdNd0lGRU53c1YxQnlZZUZPQVRzeVVkM0RERDVlS3E1WVFKVUp0eVFxdGUtRDBISmUzRktKUlpoVkhqVUNQM3QyWmctUdIB3wFBVV95cUxNVlZ0UGIzSGxuZEhVZlpWbkVrTE5NNTE5dHg5dzhoR09SVDFsWXJ0MTB1cjd2d0tBNjhiZmJrODdfR2o0NnlGZ3BnZjJZR25Pc0NOQ0NhbzlBVTNuTDEyeTd4VWlYZWlPdFFUaEVlQVJJQ2NWZi01MzVrcXh6TG1kaFlHR1JQbi03azdBUDVDLW5OLVVLSmVHQ2tmc2FJWlAxc1dqblA3OXFoQ3laWEpKb0wtVHdWWkg2eHNhUXJfMWN5UjVwUmx3VlQxUFhmdXJPRGdDODZib3pJY1k2bzI4?oc=5",
+      "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy - Livemint",
+      "what": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy &nbsp;&nbsp; Livemint",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUE5ZEwzTjA1THVfZTdwNnM3LU1VMUd0UHZVZ0NkeTc5VW9abkswTVhzdlZ1S3FDc1hkRGFadFRCWkhXVlNuUTZZREQ2ZGRpVzFlalBmc0NMd3VnS2ZlZWkxc09sR0YzM2tpMHlDd1l0RHBlMS1nR1BuX0tkTEI1SWpoMkdKWVRXS2dWcmtVNEVnSjdHNzczQzB1XzBZaWVKVVBIb05mSWdnS2Q4X3ppVW1fVXdJU0xqenRrMmJPcUZzU05WR1laR0FmS3JKZVpCMVpTUld0LUo1MHlQOEVOZHh1bUbSAeoBQVVfeXFMTVJ0SmtDd08xZzJXTFcweS1hdFFHUllNU2JxR2hOanJIOTd4NXBQM2NxZUEzcnpaWlVKZkx0Qlg1SDE1cnpKUmdjaWF1T1luQkRBWmtnQndvSVF1U0hpcmMwQlc5dm16QldRSmZETjg1ZXpnWndVa25iWWdXd2JMQW5FWFN2NExmNFZMMENmWGZQQkpBQ1ZjYm5SNW9IcXFNMmY4YWNxT0NDLXFxbEtqMlRrNVpQOWMxcDI1MVJudUlLX1M3YTdiT1VUVXRWOGc0a1NmN1VXbVd5RzQtVzZjUkZiSXJXLXZTdDdR?oc=5",
+      "image": "https://www.livemint.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
+      "image": "https://bfsi.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
+      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
+      "image": "https://www.newindianexpress.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
+      "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3NfZEVyZ2hEczhqVnlxd3lRcmZ3VS1qQmRyZzFveXh2XzlVblFnOEhxMGVid0pDTl85YVBEOWE0ZURJNFJmN2JrQmFvM0Y5SzM3eVJuT1Z2cWNxWHlzTzRmU2lhc2IyNkZ3eDZmeGpmQ3FCdFBnR2EtMzk1ZHlkbW5xSUFaRnBWQ3hEMzAyZnlwYm51MkloS2FaWGNGLWl0UjdncFEzU2RyV3VtSjhyM1NUSHdaaHJWOFI2NjdUUEVLOTZ0bndPaUpGM091T3hTVXAybHMxU19kZXhVTjhJMm5WZlA5Z3o0d2t2Wk5HdGQ1RFR3bDQtd9IB_gFBVV95cUxNcTFaaFJ4eDVjZ3Z4UkhRcmRvdWN0TnRWU05sbGpUUWlzc0NEQldOMVZEN2xDdUFaZ0NzT3FvOFNoREQxQWpYelNERk85V3NTUmVnb3N4VWRGNEpZN0luLUtJX0FlR29XUXBjZld1S1daWUM0ZF9UbXRiWi1mYlR3ZDZESDFsbms2elN6UjYxLTRsc2ZFdk9vMjhBMHNiOElFTDQycWtiVGdwRFd4a05kR2RhWlRGWUJ3QlpEUEhWS2ZiOXdSaUtabGJwdTA4eVpFLUVhYWE1NlJUQng2NFJxN2l5ak1uZndLb2FEZkN2RDlKX3hQc1dDbDVsaGdsUQ?oc=5",
+      "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - The Times of India",
+      "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; The Times of India",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
+      "image": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
+      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
+      "image": "https://www.fortuneindia.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
+      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
+      "image": "https://www.aninews.in"
+    },
+    {
+      "section": "M&A",
+      "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
+      "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
+      "image": "https://cfo.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - India Briefing",
+      "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; India Briefing",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
+      "image": "https://www.india-briefing.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
+      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHgtdUpvRFhyNk1ua3ZreXh1QVkzSDRFMDgxRmRXYnpjUlRRS0piZ3hvSV8wZHV1NU1BamtkUGxsYi1yVFVyWERYN3BJMzZ6aHVsWlN0OXZEbF9rdE1IeVdNbE90VzVHSmFVTW9FRXc3ejNkakZMY3ZkUDFiNk4yckduYmxkclpnX29qNmlrZWRXZkM3MWhWbzd6Nm12RkVseTdKZmFZT0pyR2oz0gGyAUFVX3lxTE5WWEdtdFhVbHdwZVpJZnNUamRaSW5sWVQ5U0c0SlNJWEVUU2pSOVRxV1l4RmZwVm9Qel9OM3NaMkFIWTZYSURYUTNGVm1Sc2lRU01leWhER3ZHSWJSWW5qSHNYTGs3VDhoNGxRT1VQTG5vR2MzVVo4ZFJTWnhSbHBNejRRbkJtb19lR3p0REV6ajV1dDU3MzRxSG1POXdmWm5jX0NLVjk4ODJmVnZKZjFmaEE?oc=5",
+      "image": "https://www.livemint.com"
+    }
+  ],
   "cfa": {
     "concept": "DCF",
-    "explanation": "Connect news to a forecast driver.",
-    "application": "Test the affected assumption."
+    "explanation": "Translate the headline into an economic driver instead of reacting to the headline itself.",
+    "application": "Identify the affected assumption, change it only if the evidence supports it, then run a sensitivity test."
   },
   "model_check": "News should trigger a review of assumptions, not an automatic valuation change."
 }
