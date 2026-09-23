@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:45:09.788Z",
+  "updated_at": "2026-09-23T08:47:23.660Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -53,18 +53,6 @@
     },
     {
       "section": "M&A",
-      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
-      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
-      "image": "https://www.newindianexpress.com"
-    },
-    {
-      "section": "M&A",
       "title": "M&A emerges as core growth strategy for India Inc as deals double: Crisil - Business Standard",
       "what": "M&A emerges as core growth strategy for India Inc as deals double: Crisil &nbsp;&nbsp; Business Standard",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -86,6 +74,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
       "image": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
+      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
+      "image": "https://www.newindianexpress.com"
     },
     {
       "section": "M&A",
@@ -125,8 +125,8 @@
     },
     {
       "section": "M&A",
-      "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - India Briefing",
-      "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; India Briefing",
+      "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - india-briefing.com",
+      "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; india-briefing.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -137,15 +137,15 @@
     },
     {
       "section": "M&A",
-      "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
-      "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
+      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - VCCircle",
+      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; VCCircle",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
+      "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHgtdUpvRFhyNk1ua3ZreXh1QVkzSDRFMDgxRmRXYnpjUlRRS0piZ3hvSV8wZHV1NU1BamtkUGxsYi1yVFVyWERYN3BJMzZ6aHVsWlN0OXZEbF9rdE1IeVdNbE90VzVHSmFVTW9FRXc3ejNkakZMY3ZkUDFiNk4yckduYmxkclpnX29qNmlrZWRXZkM3MWhWbzd6Nm12RkVseTdKZmFZT0pyR2oz0gGyAUFVX3lxTE5WWEdtdFhVbHdwZVpJZnNUamRaSW5sWVQ5U0c0SlNJWEVUU2pSOVRxV1l4RmZwVm9Qel9OM3NaMkFIWTZYSURYUTNGVm1Sc2lRU01leWhER3ZHSWJSWW5qSHNYTGs3VDhoNGxRT1VQTG5vR2MzVVo4ZFJTWnhSbHBNejRRbkJtb19lR3p0REV6ajV1dDU3MzRxSG1POXdmWm5jX0NLVjk4ODJmVnZKZjFmaEE?oc=5",
-      "image": "https://www.livemint.com"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFBYekJFSjhHb3JBclpWaHlmTWdEbXFYZ1pic1R1MkZYajE0QlB6OFlzeEdRcE5yVTlwSzV6OUtVbjFlbFhWOGhZejIxUXRyUWxVZmZUTmt5S05heUphcGRib2laWFFjNGc5cUJ0SVJrYlFUTEJFSUdMZnhOeEZJZDNJZHRsTlo5SlE?oc=5",
+      "image": "https://www.vccircle.com"
     }
   ],
   "cfa": {
