@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T08:47:23.660Z",
+  "updated_at": "2026-09-24T08:41:21.492Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,18 +29,6 @@
     },
     {
       "section": "M&A",
-      "title": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy - Livemint",
-      "what": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy &nbsp;&nbsp; Livemint",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUE5ZEwzTjA1THVfZTdwNnM3LU1VMUd0UHZVZ0NkeTc5VW9abkswTVhzdlZ1S3FDc1hkRGFadFRCWkhXVlNuUTZZREQ2ZGRpVzFlalBmc0NMd3VnS2ZlZWkxc09sR0YzM2tpMHlDd1l0RHBlMS1nR1BuX0tkTEI1SWpoMkdKWVRXS2dWcmtVNEVnSjdHNzczQzB1XzBZaWVKVVBIb05mSWdnS2Q4X3ppVW1fVXdJU0xqenRrMmJPcUZzU05WR1laR0FmS3JKZVpCMVpTUld0LUo1MHlQOEVOZHh1bUbSAeoBQVVfeXFMTVJ0SmtDd08xZzJXTFcweS1hdFFHUllNU2JxR2hOanJIOTd4NXBQM2NxZUEzcnpaWlVKZkx0Qlg1SDE1cnpKUmdjaWF1T1luQkRBWmtnQndvSVF1U0hpcmMwQlc5dm16QldRSmZETjg1ZXpnWndVa25iWWdXd2JMQW5FWFN2NExmNFZMMENmWGZQQkpBQ1ZjYm5SNW9IcXFNMmY4YWNxT0NDLXFxbEtqMlRrNVpQOWMxcDI1MVJudUlLX1M3YTdiT1VUVXRWOGc0a1NmN1VXbVd5RzQtVzZjUkZiSXJXLXZTdDdR?oc=5",
-      "image": "https://www.livemint.com"
-    },
-    {
-      "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
       "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -50,6 +38,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy - Livemint",
+      "what": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy &nbsp;&nbsp; Livemint",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUE5ZEwzTjA1THVfZTdwNnM3LU1VMUd0UHZVZ0NkeTc5VW9abkswTVhzdlZ1S3FDc1hkRGFadFRCWkhXVlNuUTZZREQ2ZGRpVzFlalBmc0NMd3VnS2ZlZWkxc09sR0YzM2tpMHlDd1l0RHBlMS1nR1BuX0tkTEI1SWpoMkdKWVRXS2dWcmtVNEVnSjdHNzczQzB1XzBZaWVKVVBIb05mSWdnS2Q4X3ppVW1fVXdJU0xqenRrMmJPcUZzU05WR1laR0FmS3JKZVpCMVpTUld0LUo1MHlQOEVOZHh1bUbSAeoBQVVfeXFMTVJ0SmtDd08xZzJXTFcweS1hdFFHUllNU2JxR2hOanJIOTd4NXBQM2NxZUEzcnpaWlVKZkx0Qlg1SDE1cnpKUmdjaWF1T1luQkRBWmtnQndvSVF1U0hpcmMwQlc5dm16QldRSmZETjg1ZXpnWndVa25iWWdXd2JMQW5FWFN2NExmNFZMMENmWGZQQkpBQ1ZjYm5SNW9IcXFNMmY4YWNxT0NDLXFxbEtqMlRrNVpQOWMxcDI1MVJudUlLX1M3YTdiT1VUVXRWOGc0a1NmN1VXbVd5RzQtVzZjUkZiSXJXLXZTdDdR?oc=5",
+      "image": "https://www.livemint.com"
     },
     {
       "section": "M&A",
@@ -101,18 +101,6 @@
     },
     {
       "section": "M&A",
-      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
-      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
-      "image": "https://www.aninews.in"
-    },
-    {
-      "section": "M&A",
       "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
       "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -137,8 +125,8 @@
     },
     {
       "section": "M&A",
-      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - VCCircle",
-      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; VCCircle",
+      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - vccircle.com",
+      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; vccircle.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFBYekJFSjhHb3JBclpWaHlmTWdEbXFYZ1pic1R1MkZYajE0QlB6OFlzeEdRcE5yVTlwSzV6OUtVbjFlbFhWOGhZejIxUXRyUWxVZmZUTmt5S05heUphcGRib2laWFFjNGc5cUJ0SVJrYlFUTEJFSUdMZnhOeEZJZDNJZHRsTlo5SlE?oc=5",
       "image": "https://www.vccircle.com"
+    },
+    {
+      "section": "M&A",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
+      "image": "https://www.business-standard.com"
     }
   ],
   "cfa": {
