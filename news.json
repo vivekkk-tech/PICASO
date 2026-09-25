@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T08:41:21.492Z",
+  "updated_at": "2026-09-25T09:01:53.978Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -113,20 +113,8 @@
     },
     {
       "section": "M&A",
-      "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - india-briefing.com",
-      "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; india-briefing.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
-      "image": "https://www.india-briefing.com"
-    },
-    {
-      "section": "M&A",
-      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - vccircle.com",
-      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; vccircle.com",
+      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - VCCircle",
+      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; VCCircle",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Do not change the model automatically; identify the economic driver first.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
       "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
+      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
+      "image": "https://www.cnbctv18.com"
     }
   ],
   "cfa": {
