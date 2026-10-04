@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:22:27.999Z",
+  "updated_at": "2026-10-04T10:00:46.340Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,6 +29,18 @@
     },
     {
       "section": "M&A",
+      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
+      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
+      "image": "https://www.newindianexpress.com"
+    },
+    {
+      "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
       "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -53,20 +65,8 @@
     },
     {
       "section": "M&A",
-      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
-      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
-      "image": "https://www.newindianexpress.com"
-    },
-    {
-      "section": "M&A",
-      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
-      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
+      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - fortuneindia.com",
+      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; fortuneindia.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
@@ -74,18 +74,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
       "image": "https://www.fortuneindia.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal - The Times of India",
-      "what": "Strategic cross-border acquisitions propel India's M&A values to four-year high in Q2 despite lower deal &nbsp;&nbsp; The Times of India",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQLS1GSldkWVN2Z05fc0R3LWpUMWFTR0VabEFMRVBPOGFKWEFVMFRjb2h3aWNLcFZPdEJPdVpSTnZHT29ZX3E2MVVnVWRjLUxGZTlHWEZOeXI3cWpKUWhCaGk0anM2aTFIWnBUYV84VTJTQTg2Y3BwTXJ4VTNZaHF4allOZ01qV0VYQ09vTzdlSzNZOEdncjZoV1NyUmhwRlRiZVI3c1I4ZVYxUFMzTXV4T0NIQndkQU11alBSV0ZoNVpxZlBpZDR4OUx5UUJ4UWxtNWxoRmxRN2YyeTdjaWJYUzRaSXEzX0NDRWpGQjE5am5FN3R1eC02VWVwSF9YcGRDS0R5UHYtZlpZQ2JKemN2Ym9WSVREVmZtTV9oLVNDaUVmSEs0OUZoN9IBrgJBVV95cUxQWGV5R0x1cGJKbnJ2VUk4RUpNR1E3dzZ5cjV4R3hWaHhJanluQkx2a3N6eGgtVDRJRnBYQjNNNk11aThKTWR6LVFhWWdsa2RoY2NRTEgxblE4SDFIRFM1XzJodmNkbjB2NzJneUNUUWRPYUtNbFB5VWN2aUJUTjY3ME9DOUpfT0ltam10RnpvTk54UGhYMkdDR0NWVk50YUVHVFkydzBkTU9MbGc4QU5uUGEyYnZzdDRiQTBPTmVzZ01JZnNFaUxYa0FLN2RMbjRvYVZoSnl1ejYweHh3THpvVDhSMFV3VmVTMXlDeFYxQk53Z2U1aVUtNWhFajFNdU5lazIxc29nMHJNd3h6WXVFVDMxa1FReWZqdEhYLWkxT2M0MlhRcXVXeVUxTnJxZw?oc=5",
-      "image": "https://timesofindia.indiatimes.com"
     },
     {
       "section": "M&A",
@@ -98,18 +86,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
       "image": "https://www.aninews.in"
-    },
-    {
-      "section": "M&A",
-      "title": "Big-ticket M&A deals drive India Inc’s over $25 billion corporate consolidation in 2025 - financialexpress.com",
-      "what": "Big-ticket M&A deals drive India Inc’s over $25 billion corporate consolidation in 2025 &nbsp;&nbsp; financialexpress.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPalBxXzdLbTZpWFZ2R2FtWF9wakNYcWxiUTlXQTNmcE5rTVgybnE0eU9fMFdUanBzR3BNdzBLUjZwTlNIdG0xTmRHemV1N2RxOTVBWjYwZWNLRjg4emNyOE03bFhvWlptLTJzbTZYWm1kaE42c3p6bGFIR2ppSVozeDFxWVA1MFJ1TUptc1VuZHVXZy11bFJqSURJRHBkaEtIRU85bzc3UWcySjN0S2NrYm1GUG9kX2hvMmFaV2xsbEZVamlZRERxbDJkSkR2dzhvcEhXekVwSUNTLVHSAeIBQVVfeXFMUFIySHE4TkxUU3l5bEp5TDY5Y1pyRjFJWnRMRVVvbnRoaTRQQzJDbjNGTEJLdElZSkhBNURYd2pqYW1UblBlOUQyVUpQdDlnWDdTTEV6am9jZXpwXzVHRUhsMDZPOTJaS3JaTC1SYXJLM2lrQWlEcUhKOHYwWTcxV0RPM3l4Mndydm0wUHJjYTE2T3FydVNhVkFUVzBsd3RNYnRXTFBQMUdobGtpRHRuMjNuOUwzdEpxQXhWUUpKLXlxTXJzRFdJMVg3RkJLNS1XS3RvR0FuVmRZMU5DOUpKMmREZw?oc=5",
-      "image": "https://www.financialexpress.com"
     },
     {
       "section": "M&A",
@@ -146,6 +122,30 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
       "image": "https://www.india-briefing.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India M&A deal value hits record high at $112.8 bn in 2021: Report - VCCircle",
+      "what": "India M&A deal value hits record high at $112.8 bn in 2021: Report &nbsp;&nbsp; VCCircle",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFBYekJFSjhHb3JBclpWaHlmTWdEbXFYZ1pic1R1MkZYajE0QlB6OFlzeEdRcE5yVTlwSzV6OUtVbjFlbFhWOGhZejIxUXRyUWxVZmZUTmt5S05heUphcGRib2laWFFjNGc5cUJ0SVJrYlFUTEJFSUdMZnhOeEZJZDNJZHRsTlo5SlE?oc=5",
+      "image": "https://www.vccircle.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
+      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
+      "image": "https://www.cnbctv18.com"
     }
   ],
   "cfa": {
