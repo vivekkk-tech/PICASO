@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:13:23.097Z",
+  "updated_at": "2026-10-20T08:48:37.493Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,18 +29,6 @@
     },
     {
       "section": "M&A",
-      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
-      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUQ?oc=5",
-      "image": "https://www.newindianexpress.com"
-    },
-    {
-      "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
       "what": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -62,6 +50,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3NfZEVyZ2hEczhqVnlxd3lRcmZ3VS1qQmRyZzFveXh2XzlVblFnOEhxMGVid0pDTl85YVBEOWE0ZURJNFJmN2JrQmFvM0Y5SzM3eVJuT1Z2cWNxWHlzTzRmU2lhc2IyNkZ3eDZmeGpmQ3FCdFBnR2EtMzk1ZHlkbW5xSUFaRnBWQ3hEMzAyZnlwYm51MkloS2FaWGNGLWl0UjdncFEzU2RyV3VtSjhyM1NUSHdaaHJWOFI2NjdUUEVLOTZ0bndPaUpGM091T3hTVXAybHMxU19kZXhVTjhJMm5WZlA5Z3o0d2t2Wk5HdGQ1RFR3bDQtd9IB_gFBVV95cUxNcTFaaFJ4eDVjZ3Z4UkhRcmRvdWN0TnRWU05sbGpUUWlzc0NEQldOMVZEN2xDdUFaZ0NzT3FvOFNoREQxQWpYelNERk85V3NTUmVnb3N4VWRGNEpZN0luLUtJX0FlR29XUXBjZld1S1daWUM0ZF9UbXRiWi1mYlR3ZDZESDFsbms2elN6UjYxLTRsc2ZFdk9vMjhBMHNiOElFTDQycWtiVGdwRFd4a05kR2RhWlRGWUJ3QlpEUEhWS2ZiOXdSaUtabGJwdTA4eVpFLUVhYWE1NlJUQng2NFJxN2l5ak1uZndLb2FEZkN2RDlKX3hQc1dDbDVsaGdsUQ?oc=5",
       "image": "https://www.business-standard.com"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report - The New Indian Express",
+      "what": "India’s real estate records 32 M&A, PE deals in Q1 2026: Report &nbsp;&nbsp; The New Indian Express",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUQ?oc=5",
+      "image": "https://www.newindianexpress.com"
     },
     {
       "section": "M&A",
@@ -89,18 +89,6 @@
     },
     {
       "section": "M&A",
-      "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
-      "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
-      "image": "https://cfo.economictimes.indiatimes.com"
-    },
-    {
-      "section": "M&A",
       "title": "Post-conference report: ‘Mergers and acquisitions in India – a key engine to the $30tn goal’ - International Bar Association | IBA",
       "what": "Post-conference report: ‘Mergers and acquisitions in India – a key engine to the $30tn goal’ &nbsp;&nbsp; International Bar Association | IBA",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -113,15 +101,15 @@
     },
     {
       "section": "M&A",
-      "title": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India - India Briefing",
-      "what": "M&A as a Corporate Strategy to Leverage Technology, Embrace Digital Disruption in India &nbsp;&nbsp; India Briefing",
+      "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
+      "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
+      "impact": "Potentially positive",
       "model": "Review WACC and rate-sensitive assumptions.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
-      "image": "https://www.india-briefing.com"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
+      "image": "https://cfo.economictimes.indiatimes.com"
     },
     {
       "section": "M&A",
@@ -137,15 +125,27 @@
     },
     {
       "section": "M&A",
-      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
-      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "title": "Funding M&A transactions in India - Law.asia",
+      "what": "Funding M&A transactions in India &nbsp;&nbsp; Law.asia",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
-      "model": "Review WACC and rate-sensitive assumptions.",
+      "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
-      "image": "https://www.cnbctv18.com"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SN0UtQWQxel9VWmd3M3NGM3BHQVl0dlV5RGpOWWNpdmJaZHNrYzdxM3NZVnl2aXZZTVNDeTJHb0Z5Zy04cUhPLWE4QzFGVjBMT1IwR0ZB?oc=5",
+      "image": "https://law.asia"
+    },
+    {
+      "section": "M&A",
+      "title": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge - cfo.economictimes.indiatimes.com",
+      "what": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaFRyTEx2TE52Y0s2aElJb2hNZ1A2SmFvaWRqbGNDU294eGNxYkU3M0J4M3NzdFZkQjN5X0tDSVFPTmhxdkhVQmlLLU00U2dLRTBBVEIzaTBTVG1QN3FxYnluaGVKU0J6S1d2X0k0MXFLOUw2RkxwVGtxMko1dmtMNGM4b2Uza0s5eWNKQXJsT2lXZmxnQ1VsZDNsSVlBRFJOMXNLVl9CMGdOcVk0cm9Wc1g3OEFpalNoS1VFbEQtVFFlR2ZuZkJDMlhuRzRVV21uWlZKQmNVTVhCb1FjOUFfQ0xFbXg1OElxbmw1bnJMRTllbkc0VlRWQzdrOWR5eWvSAYQCQVVfeXFMUFZULVc1cG1qaks5Nmtic2RORmNvN3FTTmpxb3hyTThBRFVTc3RSeUpYUkxMUG8yZ25KczN5YlFEZ0owNVJRcHJhRHlIdXBudVV4RGM2N0l0bDdCM0ZxN2Y5ZEpQeXNlakFqU1NNeDhMLUFmanB1TVhUdkpoV21LYXJSTGFQVjlLVDA1eXljLWpXU2x3Zl93TFJ3YTVyeHJ1OXYxaE9RYjNvdFl6OUV6WkNMdGQzcmVIZ3lIcXlMYW5PeFg4aFl2NkFVUVJOd1FfU1dlNzJkRVJYUnJmRjZoMTU3YWRlb2w2eDl6OXd3eU9kNTgzSlNrVjNyOFJqbTNoZjN5eUs?oc=5",
+      "image": "https://cfo.economictimes.indiatimes.com"
     }
   ],
   "cfa": {
