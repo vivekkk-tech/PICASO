@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:48:37.493Z",
+  "updated_at": "2026-10-21T08:48:43.668Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -60,7 +60,7 @@
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjFyNGlTUEdzQ1dzSjdjVjh4NVNjYkdRcXhiUVhLaGwwRV9OVmczc3o4WG5QWlY3STdqMXZGUkgwc1hxeS1HTW9md3BJb0k4M2lWaWRJVmZRQzUwRXU1NTV4YTRVcTVMRnN1RkdWd1BsbkRtb1c5RUZFalJfekhHNDVTTW1NMW9vb3VkTTVXR0tlNkk4VGphZTBwVkZ0VmVoUl9tS2R0aktGSGI3V0RtajNKMkhyUdIBwwFBVV95cUxNNXFTbXMwclhGZndQU21oTEZXSVAzZlNMUUJfX1BQY3h1OTBkWmFwVHd3ZDlxaVJkd3FrNElieG1mVVlMZXI3bExza3JlODUwV010bWQxMEdxNUNqaFh0OWt5eWRVckw4VnNYNVdXRWxrOUE1NWRINGxoTmFLZ09jREp0TlZVZ3Z0d0l1eUpKSzQ5NWJ4OG43UUJ1SW5IYXRfOEZwRUhjWUdTQ3hoVVBsUjdCUzlmbEhjM3hpS3NDUlFDZ2s?oc=5",
       "image": "https://www.newindianexpress.com"
     },
     {
@@ -124,6 +124,18 @@
       "image": "https://www.livemint.com"
     },
     {
+      "section": "STARTUPS",
+      "title": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round - Convergence Now",
+      "what": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round &nbsp;&nbsp; Convergence Now",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDBvUnQ5QjQ0bWZGajdVWEtKMG1jYmYyWGJ0NFowWEFsZnFRekswdDhESVMxMWxRREl2QlFMVzJhWWZYYVM5SW1GU24xdUZNRjZmc1pJRXlia3NWWXc2ZHlDTUUzM2FneXNkNWtDc2lmOEgzSC0zOXR2b2kyeEtGQnlnaUdxQ1Y4NkQ2MHdzaUhZRExDYUV3elpqZUVIODl6V29salBBa2swd3NndVY0dG5qcVc5MHc3Z3gtNmhPQTZvZVdu?oc=5",
+      "image": "https://www.convergence-now.com"
+    },
+    {
       "section": "M&A",
       "title": "Funding M&A transactions in India - Law.asia",
       "what": "Funding M&A transactions in India &nbsp;&nbsp; Law.asia",
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SN0UtQWQxel9VWmd3M3NGM3BHQVl0dlV5RGpOWWNpdmJaZHNrYzdxM3NZVnl2aXZZTVNDeTJHb0Z5Zy04cUhPLWE4QzFGVjBMT1IwR0ZB?oc=5",
       "image": "https://law.asia"
-    },
-    {
-      "section": "M&A",
-      "title": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge - cfo.economictimes.indiatimes.com",
-      "what": "India’s Q3 2025 dealmaking hits multi-year high at USD 39.9 billion, led by record M&A and IPO surge &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaFRyTEx2TE52Y0s2aElJb2hNZ1A2SmFvaWRqbGNDU294eGNxYkU3M0J4M3NzdFZkQjN5X0tDSVFPTmhxdkhVQmlLLU00U2dLRTBBVEIzaTBTVG1QN3FxYnluaGVKU0J6S1d2X0k0MXFLOUw2RkxwVGtxMko1dmtMNGM4b2Uza0s5eWNKQXJsT2lXZmxnQ1VsZDNsSVlBRFJOMXNLVl9CMGdOcVk0cm9Wc1g3OEFpalNoS1VFbEQtVFFlR2ZuZkJDMlhuRzRVV21uWlZKQmNVTVhCb1FjOUFfQ0xFbXg1OElxbmw1bnJMRTllbkc0VlRWQzdrOWR5eWvSAYQCQVVfeXFMUFZULVc1cG1qaks5Nmtic2RORmNvN3FTTmpxb3hyTThBRFVTc3RSeUpYUkxMUG8yZ25KczN5YlFEZ0owNVJRcHJhRHlIdXBudVV4RGM2N0l0bDdCM0ZxN2Y5ZEpQeXNlakFqU1NNeDhMLUFmanB1TVhUdkpoV21LYXJSTGFQVjlLVDA1eXljLWpXU2x3Zl93TFJ3YTVyeHJ1OXYxaE9RYjNvdFl6OUV6WkNMdGQzcmVIZ3lIcXlMYW5PeFg4aFl2NkFVUVJOd1FfU1dlNzJkRVJYUnJmRjZoMTU3YWRlb2w2eDl6OXd3eU9kNTgzSlNrVjNyOFJqbTNoZjN5eUs?oc=5",
-      "image": "https://cfo.economictimes.indiatimes.com"
     }
   ],
   "cfa": {
