@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:48:43.668Z",
+  "updated_at": "2026-10-22T08:51:29.749Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -113,6 +113,18 @@
     },
     {
       "section": "M&A",
+      "title": "Using M&A as Corporate Strategy to Deal with Digital Disrupters in India - India Briefing",
+      "what": "Using M&A as Corporate Strategy to Deal with Digital Disrupters in India &nbsp;&nbsp; India Briefing",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
+      "image": "https://www.india-briefing.com"
+    },
+    {
+      "section": "M&A",
       "title": "M&A deals in India drop 10% to 793 in 2023: PwC report - Livemint",
       "what": "M&A deals in India drop 10% to 793 in 2023: PwC report &nbsp;&nbsp; Livemint",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -124,28 +136,16 @@
       "image": "https://www.livemint.com"
     },
     {
-      "section": "STARTUPS",
-      "title": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round - Convergence Now",
-      "what": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round &nbsp;&nbsp; Convergence Now",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDBvUnQ5QjQ0bWZGajdVWEtKMG1jYmYyWGJ0NFowWEFsZnFRekswdDhESVMxMWxRREl2QlFMVzJhWWZYYVM5SW1GU24xdUZNRjZmc1pJRXlia3NWWXc2ZHlDTUUzM2FneXNkNWtDc2lmOEgzSC0zOXR2b2kyeEtGQnlnaUdxQ1Y4NkQ2MHdzaUhZRExDYUV3elpqZUVIODl6V29salBBa2swd3NndVY0dG5qcVc5MHc3Z3gtNmhPQTZvZVdu?oc=5",
-      "image": "https://www.convergence-now.com"
-    },
-    {
       "section": "M&A",
-      "title": "Funding M&A transactions in India - Law.asia",
-      "what": "Funding M&A transactions in India &nbsp;&nbsp; Law.asia",
+      "title": "Merger And Acquisition Deal Value Surges 60% To $19.6 Billion In Q1 2024: PwC India Report - NDTV Profit",
+      "what": "Merger And Acquisition Deal Value Surges 60% To $19.6 Billion In Q1 2024: PwC India Report &nbsp;&nbsp; NDTV Profit",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
+      "impact": "Potentially positive",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SN0UtQWQxel9VWmd3M3NGM3BHQVl0dlV5RGpOWWNpdmJaZHNrYzdxM3NZVnl2aXZZTVNDeTJHb0Z5Zy04cUhPLWE4QzFGVjBMT1IwR0ZB?oc=5",
-      "image": "https://law.asia"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkFvenJ6cERjTUxjWEtWUXdLemdmaHNEWGZGUFRMaW9vZlhoVEhxWEQ5TGU4ZUx1eVJISngxTXROZUwxWFlqaTFfRmlUWkhFLWtrcU8taXNaUzhsU3YzVDB6cXJkd3VYSUhYQmlabE00Sy1DQkRzOFdaeE9hRjlmbHRyWFNES3BqbEd3bHViMzRKUHowU1pYemxkYkRYZG9NdnZkTUVJcjJuWTlsTUE5dUZDazRRNFoxa3lfdkNsVzNFQWI2anFkb1RR0gHSAUFVX3lxTFBsNUZfV1JBWkxvRmpHX3E2bHdXOVBWQzRReVBJQ0dVbzAza0dfMGctdFUtNVlkYVJ0MWR0amxqY1A5NWUwUGlka2ItLVFLcnl1NmhrR1lpN3RjU0Q4cXhaY2VSR3RraTF4N25PUFZ5Sm9YX3ByRmNKSTJMTXFfYXNDbWEzZjFIbVVvYmNpc0pOTXNWZ0RaSV9URHQ0SVhwcUFuTU1STnRIdkpRUUZJYzNiZ2N6a0JJNWF0OE5icllybmxDMzUyM2lCd1JGRDlJaVdMUQ?oc=5",
+      "image": "https://www.ndtvprofit.com"
     }
   ],
   "cfa": {
