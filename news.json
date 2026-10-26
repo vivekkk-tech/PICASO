@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:39:33.020Z",
+  "updated_at": "2026-10-26T09:16:29.140Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -77,18 +77,6 @@
     },
     {
       "section": "M&A",
-      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
-      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
-      "image": "https://www.fortuneindia.com"
-    },
-    {
-      "section": "M&A",
       "title": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy - Livemint",
       "what": "Mergers and acquisitions offer India Inc an opportunity but success hinges on execution in line with a business strategy &nbsp;&nbsp; Livemint",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -98,18 +86,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUE5ZEwzTjA1THVfZTdwNnM3LU1VMUd0UHZVZ0NkeTc5VW9abkswTVhzdlZ1S3FDc1hkRGFadFRCWkhXVlNuUTZZREQ2ZGRpVzFlalBmc0NMd3VnS2ZlZWkxc09sR0YzM2tpMHlDd1l0RHBlMS1nR1BuX0tkTEI1SWpoMkdKWVRXS2dWcmtVNEVnSjdHNzczQzB1XzBZaWVKVVBIb05mSWdnS2Q4X3ppVW1fVXdJU0xqenRrMmJPcUZzU05WR1laR0FmS3JKZVpCMVpTUld0LUo1MHlQOEVOZHh1bUbSAeoBQVVfeXFMTVJ0SmtDd08xZzJXTFcweS1hdFFHUllNU2JxR2hOanJIOTd4NXBQM2NxZUEzcnpaWlVKZkx0Qlg1SDE1cnpKUmdjaWF1T1luQkRBWmtnQndvSVF1U0hpcmMwQlc5dm16QldRSmZETjg1ZXpnWndVa25iWWdXd2JMQW5FWFN2NExmNFZMMENmWGZQQkpBQ1ZjYm5SNW9IcXFNMmY4YWNxT0NDLXFxbEtqMlRrNVpQOWMxcDI1MVJudUlLX1M3YTdiT1VUVXRWOGc0a1NmN1VXbVd5RzQtVzZjUkZiSXJXLXZTdDdR?oc=5",
       "image": "https://www.livemint.com"
-    },
-    {
-      "section": "M&A",
-      "title": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report - ANI News",
-      "what": "India, Japan to remain key drivers of Asia-Pacific M&A deals in 2026: S&P Report &nbsp;&nbsp; ANI News",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3ZjZE9neTJhT1JHblA5OVFDYlRhb0g3cEVZaXh3T2U3aHp1Uy1zNEtILUNSelo2TGh4MjMxR1lBYlNDZzhPNkZNODVKQ1JQR1JzY2U2U0JYYmV3VjY1dHpaM0NQRFpvUWhzZUhiamJwcUFqY3M1T2lnUm1Rb0tIbFVCRTVxYTdza3BVY2h0OFVvbVFEcy1zeHdMVF9RX2U1eF9zZlNpSWdoT1BQMkpBOTdDeTl5YjUtcDhBcDVXNjVmV0tCREV5cWkxRGRhZw?oc=5",
-      "image": "https://www.aninews.in"
     },
     {
       "section": "M&A",
@@ -146,6 +122,30 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXNVaVFCczY4cE1TWm1wczVrMTJ0NDZEZDczUXAyVURYOERLRzB2Y3lodjdIcm02ZUs4NnVadUxQTUxxZmZqUXFwSDZXMVN1eFctZUhXc0pHOWpXS0hqTm5Ba2VPeXNJUlZtSXlXQUpEMi0zMEdWNmxSLVozMW1TQXduVVZwSUhzMTZnNU5FcDZNYlp6VS05NW9McUxyNE9IcXZkX3BubUw2RS1mSlJOc0RZeGxOQm1ZbXJuU0s5NXJSdFVoVlVIQk8tdw?oc=5",
       "image": "https://www.india-briefing.com"
+    },
+    {
+      "section": "M&A",
+      "title": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap - cfo.economictimes.indiatimes.com",
+      "what": "RBI drafts norms to let banks fund up to 70% of M&A deals, sets 10% exposure cap &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
+      "image": "https://cfo.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Indian corporates show strategic discipline in overseas M&A, say experts - CNBC TV18",
+      "what": "Indian corporates show strategic discipline in overseas M&A, say experts &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmxWUDNiQVFBVzBzajd4bWZFbWhyUDRIbTdkYjZmSV9zTGwwdnREOGNnNDRiQ2VDOUZndGdtSDdnMUVWSElpVE01RlYzcVBJXy04Mjl1S0pGOUNDN3hncUtzY05veHNlODN2c2xKV3FJU1NXT1V1VWM1dE5UZjY5UU1aZEhTa1NQbTM4SjFOYl9tNzFBN0pjTkp1VXpVMzN5V3hpbkJ6WDJISUVQc0Z3aVpFN0VEZ3Q3WHJXa2ZPQ01xcC0zMlZSOWxqSE1LUGpmWE1heDZWdDU3aW9WN0RBeW1reDUzQdIB6wFBVV95cUxNOGs5VGFHSFRpM2lhX0xvQll5cVJKYUJLVHJJRkFGU3hacUNiaHZrelh6RkVlMjd4RC1WRXZZekxnX2U2YzNNcjZYQVBPczRpb3VDT2FVdklzY3RTYmlXMTZBaGtaNUlIc2R4bk1BZzZDRldoQUE5RXI4N096NVdjTEd6MFBBdzhDamRxSjRJLVVZa1c2WGhEaDR1Z1ZyYVp6RGZ4cF9iekNOZFc0dllSUUk1THZZaENDUWxIRDByb1RQMUFCQ2lVeUJ4d1ZjOXhFU2U3VEZfX1NyN2VkNnFEWGIxLWZXcXdkX0pV?oc=5",
+      "image": "https://www.cnbctv18.com"
     }
   ],
   "cfa": {
