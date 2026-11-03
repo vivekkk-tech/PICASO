@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-11-02T11:35:13.476Z",
+  "updated_at": "2026-11-03T11:14:18.995Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
-    {
-      "section": "STARTUPS",
-      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
-      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Potentially positive",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
-      "image": "https://bfsi.economictimes.indiatimes.com"
-    },
     {
       "section": "M&A",
       "title": "Can cheaper bank funding spark India's next M&A cycle after RBI move? - Business Standard",
@@ -146,10 +134,22 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXpaNFB1dkllelRGeUtaQXdEdnBKWGdCWC1ac0lZbWdneFNFYnVGR20tQUhJaWl0SkhRNjJQTHhvVlgtZ1ktTHIzdmxyRjJtR3NzQ3hvVmp4Uzc4eUxESDNQREhGZ1dGSzEyUGI2NnE0cjRhRjlqdzZobUdXbE5VTDBPemdQanhta2RKSi1fczJaZzVwcE9adGptczJ0TG9rbGt1M21WdUhtemNENmhydVRFcHZYTkZsa3U3XzJXU1ZPeVMwZk1DaTJzNnFfZ9IB0wFBVV95cUxNQWg1ekhkQkVnNm5VOVFHeHo2SlRObVgyX1MyclhIdHNSbnU4SnZvMUlyR2o3U1JkaEpwQUxVN0RuZ2FFWXlfa1NUNWpqN1lCX016aUFMdUQ0SlN3aXdmcXktTE0wTl9LLWJQRUwtMzAtX1lDaDB5TjJWOHYwZVdfV3BTV21Dck9DY1pYaVNnbE84S3Qyc2p0azR6cWhvd2tHWG5DdHN5czBESXhPWldrbExuQlFKcjJKU2N4TnpCa0FoZHlPLXpab1BBekdoMEtxWHdR?oc=5",
       "image": "https://cfo.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "M&A deal value in India drops 27% in 2023: Deloitte Report - bfsi.economictimes.indiatimes.com",
+      "what": "M&A deal value in India drops 27% in 2023: Deloitte Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzMwTU1LS3pjU2poY3pXRFVvUzhLU1lINW1paGw4Nnk2RGFwdExOcjkwY0FqMm1hdmxLczQ1ZkxvalRtLU1nUEFYRDhDNGZYeFYzLTRjZXA2TWJYVkZQcXZJX2FGZ2xTaGlaVGV1ZDdIdTY1M2M4NV9nZVVGTm0ycnpYRjBmVmp2UzJqN2NyNEg1MW5vM0dmZndVcnBrdzhqSkFYYlNTMnZPQWNETUVUNGRJc2FwZ9IBuwFBVV95cUxNR0tzVXVpYm1EZVFLMS1UaHI3LWJaSHpEZ3l4RGM4X0l6dlk3MDRCbkZ5TVpETDJRWjJISWRrdXNBa3lqTlAtRlFzS0JxYVZsal9uNHFwcC0wTS1iZ2VBcnFjV3JQLXM5LTJUYUdGY2Jkb2tqWkUzY283bzFKYkJudzR4bTktTUdnU3NfS2RnUmY4WU43bDlTU2RZVHdXTXg0VjZDYjNyUjlUNzI1V01uTXR0UFczS1JEWDFJ?oc=5",
+      "image": "https://bfsi.economictimes.indiatimes.com"
     }
   ],
   "cfa": {
-    "concept": "DCF",
+    "concept": "M&A Valuation",
     "explanation": "Translate the headline into an economic driver instead of reacting to the headline itself.",
     "application": "Identify the affected assumption, change it only if the evidence supports it, then run a sensitivity test."
   },
