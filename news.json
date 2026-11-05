@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-04T11:25:06.862Z",
+  "updated_at": "2026-11-05T11:23:40.764Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
     {
-      "section": "STARTUPS",
-      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
-      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Potentially positive",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "section": "MARKETS",
+      "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts - TradingView",
+      "what": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts &nbsp;&nbsp; TradingView",
+      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
-      "image": "https://bfsi.economictimes.indiatimes.com"
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ1MwM1M3d1pkd3d4VnpMSWhlMF9wbWxScTFNMWFoTHB6ZU1NTmcya2xaNjRoV0FlQVdwRmpZQmJCWENWWDNJSEhsLTA3ekhPbFBVWWcxaE1XYWhGX0RnR1NqWFk4czdjRTIycFlOWmZqOFZVY1BubEdYTEYxR1lyOVFqVmpwTjRJN2hEcUc0MmUtSi05UDBYNWVheFBFYjZ1d1FJZFpsUDNMdVI2ejJheElNX2hkREU0eEl5RnlTZ0RQUXBHQUlLellzS1E3dEZMc2I3cXRZSl9VeWEzNmhBOGpReUhHQVRsUFdRa1lBaFN6cnI3QXFSRHlVaw?oc=5",
+      "image": "https://www.tradingview.com"
     },
     {
       "section": "M&A",
@@ -28,64 +28,28 @@
       "image": "https://bfsi.economictimes.indiatimes.com"
     },
     {
+      "section": "MARKETS",
+      "title": "Sensex Today | Stock Market Live: Sensex surges over 750 pts, Nifty tops 23,600; Asian Paints jumps - IndiaIPO",
+      "what": "Sensex Today | Stock Market Live: Sensex surges over 750 pts, Nifty tops 23,600; Asian Paints jumps &nbsp;&nbsp; IndiaIPO",
+      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWERuQk5hODRxYXJMRWdUVjRjZks0UnpJNGppWE1md2k2d0d1MEtKdzZ1YXdMeWZrYXdvbTRiWjBmT2sycllvMS1NYlBJR1YyVXNmbnJVOExIelZZRGdIbEd0TmMzYzh3azY0TEpiTFc4VkhqdnJmWkdDeS1lVi1zZWVDRW12Z0IzbGxiU1U4b0xGNGJSQVh6VXJOdmhCVkgzTUpRdlQzNFdPd3JvdW5oYUdjZVRHSm1VYkNCZjFnNEtEVkR3eGFzRg?oc=5",
+      "image": "https://www.indiaipo.in"
+    },
+    {
       "section": "STARTUPS",
-      "title": "Funding and acquisitions in Indian startup this week [Nov 03- Nov 08] - Entrackr",
-      "what": "Funding and acquisitions in Indian startup this week [Nov 03- Nov 08] &nbsp;&nbsp; Entrackr",
+      "title": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] - Entrackr",
+      "what": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] &nbsp;&nbsp; Entrackr",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Mixed / needs context",
       "model": "Review purchase price, funding, synergies and accretion/dilution.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHdGNnlxb19OQjBvZjBUYS1MUnFOMTE2alFiZDlIbnJyTGhUV290YnpIcjlSOWQ3bXRDT2RfaFh6TkY2WF9NVE0yQlVfMWRpNGlCMjZ6dWkxN1AzWXRQcmgwTzh3MDNEcU9WTkFKbWgtLUFBRjZsVE5OSVdSRlU4U2F4NmlTcWc3dkRlZjhqLWNKSURkckk1VEh5WEt2ZHRoRDdGZTF5UlZzYlZyVHRHZS15Ni1DSGdVdmF6bDNSb2IzLXfSAcMBQVVfeXFMTkx3RjZ5cW9fTkIwb2YwVGEtTFJxTjExNmpRYmQ5SG5yckxoVFdvdGJ6SHI5UjlkN210Q09kX2hYek5GNlhfTVRNMkJVXzFkaTRpQjI2enVpMTdQM1l0UHJoME84dzAzRHFPVk5BSm1oLS1BQUY2bFROTklXUkZVOFNheDZpU3FnN3ZEZWY4ai1jSklEZHJJNVRIeVhLdmR0aEQ3RmUxeVJWc2JWclR0R2UteTYtQ0hnVXZhemwzUm9iMy13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlHMk5yMFgzQWptdnpKVGJRTlN5VUVCcW42eFNDUk9KYk56ZWlDbnBYYWlvUlRQWFBZS1NFN1Ztc0M2MGc0WV9WcUhFV24wNU15ejJMUkFLMmJlRF9QbzBaZ3VMREJ1bHgzamZFa0ZxcWRjWThJczlLa2NnTWM2eXlaLVJyNnNaZHpvWkk1VU9pSklWd2FVSkFnS3NTWUg3b3ppbTdGdmIxdWNNbkZzRWxfc3RyeUU4c0RQZjVXSFF2Yk9xU3BCbVVyT2V6OHRJQU1KTDlOYUhPV2U0bnBWSjdn0gHiAUFVX3lxTE1YaUcyTnIwWDNBam12ekpUYlFOU3lVRUJxbjZ4U0NST0piTnplaUNucFhhaW9SVFBYUFlLU0U3Vm1zQzYwZzRZX1ZxSEVXbjA1TXl6MkxSQUsyYmVEX1BvMFpndUxEQnVseDNqZkVrRnFxZGNZOElzOUtrY2dNYzZ5eVotUnI2c1pkem9aSTVVT2lKSVZ3YVVKQWdLc1NZSDdvemltN0Z2YjF1Y01uRnNFbF9zdHJ5RThzRFBmNVdIUXZiT3FTcEJtVXJPZXo4dElBTUpMOU5hSE9XZTRucFZKN2c?oc=5",
       "image": "https://entrackr.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round - Convergence Now",
-      "what": "Sarvam AI Enters India’s Unicorn Club: Secures $234 Million in HCLTech-Led Funding Round &nbsp;&nbsp; Convergence Now",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDBvUnQ5QjQ0bWZGajdVWEtKMG1jYmYyWGJ0NFowWEFsZnFRekswdDhESVMxMWxRREl2QlFMVzJhWWZYYVM5SW1GU24xdUZNRjZmc1pJRXlia3NWWXc2ZHlDTUUzM2FneXNkNWtDc2lmOEgzSC0zOXR2b2kyeEtGQnlnaUdxQ1Y4NkQ2MHdzaUhZRExDYUV3elpqZUVIODl6V29salBBa2swd3NndVY0dG5qcVc5MHc3Z3gtNmhPQTZvZVdu?oc=5",
-      "image": "https://www.convergence-now.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "InMobi, India’s first unicorn startup, has begun preparations for a potential domestic IPO that could raise more than $500 million at a valuation of $4 billion to $5 billion, according to a report by Moneycontrol. The adtech firm has held pitch discussions with as m - Instagram",
-      "what": "InMobi, India’s first unicorn startup, has begun preparations for a potential domestic IPO that could raise more than $500 million at a valuation of $4 billion to $5 billion, according to a report by Moneycontrol. The adtech fi…",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12c0tudmFjTmNpVFFSU3AzdGhIYkpQQkVYR3NfcnlMNDIyTGNaYk1iR0liMnhTX0xSQzN5UWVjcGpsQ3FhVXM5cU53NlZySWdWRGc?oc=5",
-      "image": "https://www.instagram.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "Indian startups' funding winter persists, 72% decline in 2023: Report - Business Standard",
-      "what": "Indian startups' funding winter persists, 72% decline in 2023: Report &nbsp;&nbsp; Business Standard",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Potentially negative",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYjdZQ2tQSi1FMWV4aE5qV2FLbkF5TkZ4N2syRDFBS1RwUDFaZE4wOHNxUHZsWmZ3UEF6OFl4RlkwczJsZUdnMWRQSk9haDZ4alZCbEpPRUFQNmgtaXBBY01UTUYyVDBlRHUtbV9hRU9rMHQ1MWpzQzh5MFVDdGQ0NmlLRFEzbThrVlJobVRnRVVUNHM2ak5mNUZoSlU1MFJPcGdhUWk4RzBPYWphU0JuUDlTb19uNm5oVG5uN0c2ak4yYWpOS1RRRzNQaU1nSEJ2ZDhrODZR0gHbAUFVX3lxTE5LbnpIT293MkhhLVE0MG5tRUlnbUtNcjJWemc3YkZ6N2tRWDhoSG45MG1kWm1SdlVmdXR0X1d3eUVkY2xoMmdMN0JMcldBVVNMMnhjSDNfZGwyeGxsVGZIV0cyM3RSREFJX2dGb1cwTG05X19CYmx5ZkFkRXFPZG5pYVRnUTB0ZUh1YS1ldjN2N1ZRRXUwMl9tWkN6Wk8wTXIxYW5QUVFwTmFFa3dKVGgxbDJBRlBfbXd2VjdwQ0czM05SRzluZG9RNFpSd0xBUHpncHpQdjJEMkliYw?oc=5",
-      "image": "https://www.business-standard.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "India most active IPO market in 2025; 20 VC-backed startups listed publicly, 28 profitable unicorns: Repor - The Economic Times",
-      "what": "India most active IPO market in 2025; 20 VC-backed startups listed publicly, 28 profitable unicorns: Repor &nbsp;&nbsp; The Economic Times",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZUtiMzRwRU1hVWMxOFFlUHptbDdKaVIyQldPTkdmRTFMQVJBSlhvNUVHU0lqdEc3VGZtMDdhUVd0VGx1TF9mWG42d0pyc1cxTzNxTTgybjFZOXZ1SzRMTVZFY0RKQ0RZYTJoN2RLdWFQNFdKajZITVBueUpvMGhkZUxpM0lXSEloU3diQ0Yyd3UyaWh2eThNU2FNZTJiWnBPcmpQQk9pM3o4WTlMc2w3cjBQU01scXpWZkFVVGl0Sy10MDJyeExSdXlyMEkzbVVrdWYxMldNVmFSdEk4TE9WMVVwaUtDcFlxU2lvQWswaUM4LWo3Uy1raEFjZVpkV1FsMG5RSFo4al8walh3Y1pOZVlOVdIBmAJBVV95cUxQRFF1T0tMWUgyeVFGNnctYWhmQjZYUjNjbDY5Z01NdW5ZamVLZ1VOZjFmMzNfaG9LNnlYSm1SdXB4UjQyODZzb2tvZERRMkRibU5fd0VQYTBlTERsLWd3UmlyUVVKMm1UX0FLSGh4U1RHYW05WDVKSkcxTWxmV096MDZ4VTIwVTg5cDZ6UThvUjN0T3MxcWtkS0VoRFVJQlNoT3paNGpmUk1pNDFPWEhiSDhlbS1CdjN3YU9Xa3NDbkNKZ0g5Rk41cldKOU9EUWY5MDd2eTFyY3QzbWpXT1J0dk1NOUhIT0NXZ01rcUNmX3I2UmE3VV9vdEVuMF8tcUo0YlpNdXlxNUFzazZOQlRGZVVDYkpjQTVx?oc=5",
-      "image": "https://m.economictimes.com"
     },
     {
       "section": "STARTUPS",
@@ -101,6 +65,18 @@
     },
     {
       "section": "STARTUPS",
+      "title": "Indian startups raise $6.7 Bn in H1 amid IPO buzz: Entrackr Report - Entrackr",
+      "what": "Indian startups raise $6.7 Bn in H1 amid IPO buzz: Entrackr Report &nbsp;&nbsp; Entrackr",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWRnN21yM092UVpwMkhVdXdlQnhMS1NYMTBudnZ5bWRGUFZQdUhYWWRFdm83NUh0T1cyOGhmU2hRM1BMTnZlTC13bmNsbE9zbC1xNWwyWG43QVRFdHdNS29temZpaUFwczhrYXRUM1ZxVTBBUjlHZFA0aUM3SUcwMElybDJDVEhrSWVTQ1JNWm5yMnJjR25GWGdWbFVzUV9nWjJuTXdnT216clVNaFVyclVJb2hJcGtWMXfSAboBQVVfeXFMTy1kZzdtcjNPdlFacDJIVXV3ZUJ4TEtTWDEwbnZ2eW1kRlBWUHVIWFlkRXZvNzVIdE9XMjhoZlNoUTNQTE52ZUwtd25jbGxPc2wtcTVsMlhuN0FURXR3TUtvbXpmaWlBcHM4a2F0VDNWcVUwQVI5R2RQNGlDN0lHMDBJcmwyQ1RIa0llU0NSTVpucjJyY0duRlhnVmxVc1FfZ1oybk13Z09tenJVTWhVcnJVSW9oSXBrVjF3?oc=5",
+      "image": "https://entrackr.com"
+    },
+    {
+      "section": "STARTUPS",
       "title": "Indian startups raised over $25 Bn in 2022: Entrackr Report - Entrackr",
       "what": "Indian startups raised over $25 Bn in 2022: Entrackr Report &nbsp;&nbsp; Entrackr",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
@@ -112,40 +88,64 @@
       "image": "https://entrackr.com"
     },
     {
-      "section": "STARTUPS",
-      "title": "Indian startups raised $6 Bn in H1 2023; no new unicorns: Entrackr Report - Entrackr",
-      "what": "Indian startups raised $6 Bn in H1 2023; no new unicorns: Entrackr Report &nbsp;&nbsp; Entrackr",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "section": "PAINT",
+      "title": "Asian Paints, Berger, Kansai Nerolac: What to expect from paint stocks as festive season nears, oil stays elevated - Upstox",
+      "what": "Asian Paints, Berger, Kansai Nerolac: What to expect from paint stocks as festive season nears, oil stays elevated &nbsp;&nbsp; Upstox",
+      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
       "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
+      "model": "Review COGS and EBITDA-margin assumptions.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRU9UOHdVOFJEUzhGaTRiV0JLcy1jR1Y5MlRpYTRGT3ZhR1Z4MDExR2tOUWFTQWV4WkVoRjJ3NFBfU2puV0JraUxVX25SWWpnWDJadUY0amxZcV9qTW1BVDJlSkZWUFZ4Y0dnbk1oOUwtR2trVkw3cEhFV2VKcEdCUVVtbWxNWkJGVUtEQTVQSjR0TElDY3Y3N2Q3a2Z0SG1ZX1HSAaIBQVVfeXFMTUVPVDh3VThSRFM4Rmk0YldCS3MtY0dWOTJUaWE0Rk92YUdWeDAxMUdrTlFhU0FleFpFaEYydzRQX1NqbldCa2lMVV9uUllqZ1gyWnVGNGpsWXFfak1tQVQyZUpGVlBWeGNHZ25NaDlMLUdra1ZMN3BIRVdlSnBHQlFVbW1sTVpCRlVLREE1UEo0dExJQ2N2NzdkN2tmdEhtWV9R?oc=5",
-      "image": "https://entrackr.com"
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNckc1TkF2bjVOTUJTWTM1a24zZGMwR0ZRLWJDb1ZwMWUtOGU5U0pWdXN2VDM5WVdIdng0MTRBcFNVLThsME9RMzEtR2ZDbjh0OFFEV1NXblQyejhKZllnOENNWm5veE5jSUNocXdLMmJRVzFLUDR3S0xlRmhhMGVEYXFHVjdpaEo3aEVWeHR1Ym44YklyU1N0bl9uSXdhMmNhS3loaFZfYUtMd0Yxcko5Z2JjTjJLaS1ibFRFOEdJcEM2UDViZEo0X3NtUmEyU1l2SEh1WFhRZ1RWc0dCaWJNc0tRcV9RRzNfdzRDRzJhVXpPaFZ2U1ZJ?oc=5",
+      "image": "https://upstox.com"
     },
     {
-      "section": "STARTUPS",
-      "title": "India to have over 150 unicorns by 2025, startups to employ 3.25 million people: Report - Moneycontrol.com",
-      "what": "India to have over 150 unicorns by 2025, startups to employ 3.25 million people: Report &nbsp;&nbsp; Moneycontrol.com",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
+      "section": "PAINT",
+      "title": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders - Fortune India",
+      "what": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders &nbsp;&nbsp; Fortune India",
+      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
+      "impact": "Potentially negative",
+      "model": "Review volume and revenue-growth assumptions.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWURxaThxeThmMlk4UE1pYUEyRVo5MnhlXzQzLWNHLXVTdEEzZ0RFMHNzclEtTlV3NVlld0dONmJKMXFEUXdUTmw2UzVVYzk2SkZZbUM5bERleTNTLXMtNVpZeXJ1WXFnMFFvOFBQMUJSSHJkUHNnZXFVRUZ5YnhrQWxsbjh4a09Yd25NX05FNWNlUzFJRnhVLXBoajQySlVNTjV4Q05lYjRLN3QwX3ZpVGZDR19mR2dTSmtfV1RLdVYzODB4ekp4X2gzblFRa0JERV9QTG50bV_SAd4BQVVfeXFMUGM0MmQtNE5IZ3R4VXlSbExWUHNJaEJEVnROSWtuN3ZYMmdlczBsaFdDOTRyeVNEeTBHY0VpcTdJeElDWlRvUTBDTUVQZ1ptN1ZuUGRnSFRKY0tSRUFpTjFpd3FkLWxLYzktQko1Mlh2Q0txdklhQnFfS3BHclI2SWlZaWlVTkFVV0VMcGZXOHZBaGllVk1rdVBfOTVkYlFseEZHdktfajFfcldjdDZEdHdiVm1laWVhN2FDcFgwbUlrVm9mbDdKYzJOSjI2UE43Q3F0LVZhVENZb2lUZlRB?oc=5",
-      "image": "https://www.moneycontrol.com"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFgwQ1BRNllFX00wbDBWX1ZWc01YSEY4c1dTYTNmS2dVSE9qcUxfbEhqaERNU2hPeWdnQVVrZ0tyeG56c1NFSGpkQ0FMTkpvN2lfYVBXc2R2SWtySzJQVFB6Tk1xbnZTSnFOamREVVo5V3JSMW10bV8tNTIwMXhKM2V5NHFxQ3FWVnNzT1I4NWwtZWJNRUdpN1k3d2VhSi1FZVN4MzZqVGtDdUo0bnhzZ2tUTThKWGhkMHhVWlVqUDk1N2kxVjRN0gHUAUFVX3lxTFBYa21Zcnh4SVBQRUVYR214MW83VFhEVW1vUW5FS09vbDZWZHZNS1dONTdmMlBrai1FTXkwaFlwYk4wakQxaFZGZnBNUS1GZ01NSkxqakpxcGkzN1lESVNIWVFDajg2NTkzS0pvM0Rkd2NGMWRQbnJOZ05oS1V3WjJqLVBEbXF3MmhvYmJOMzJQSkFzSWN5T245bnlLNzR4emt0RE0ydFAtbXJQSDU3Z1hpMGVkTTh2aTZjSWdqTXFXTHIzWTJabDV1RjJWcjllY3NGRHBK?oc=5",
+      "image": "https://www.fortuneindia.com"
     },
     {
-      "section": "STARTUPS",
-      "title": "India ranks 4th globally for its 25 fintech unicorns & one decacorn worth $90 bln: Report - bfsi.economictimes.indiatimes.com",
-      "what": "India ranks 4th globally for its 25 fintech unicorns & one decacorn worth $90 bln: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "section": "IT",
+      "title": "Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? - The Times of India",
+      "what": "Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? &nbsp;&nbsp; The Times of India",
+      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOGZwc0VUbDM0MjJ4TTkxYi1SMUVUNms1dHp3cUUtOFp1MkZuZ05makh1MkdoTE5QYUJJQWItOFpoQmZOYmFJTGMzZ2JJYXplcU55TE4zSW83RnZ2cWZXV3ZYWXZVcFZQZUtiQ3pQckpCdWpSOGhjc215aWN0OFVvMDJVb3lfbWlMb2h5a0stZC1KRmlnM1V3NGtKRV93aGFLYW1qdnNTWXVXLXA4aFFQcXIxX25ZQW1Oa05yRklGU2g0RUhoWVB2ckdEQ2p3eWJIZnp4YWI2RndRblpISlg3RXBsY2HSAeoBQVVfeXFMT080R1YxUE14UlVyajgzOHdJaVBRdVB1NGNyQWVBb21PUmpFTUoySEpzUWZ4d29FMU1vaENnOHdFYXJfRVd4UVJMVG5fVENOd2tEVXlQV1VBVmhYbWFmQ0dZTl9NVFJEMmNTYmppYUpDS1MyVjROYVc5bzFhYUVyV3ZOUF90WnowWko0Sm92eXBHREtWa2xHclFsSEszcEJ1OUYta1lKSG9ONlFjVVJIWlNDclh5cDJlQkFfMFN4SkUtaGh5SzNvM191TkNRWlpQQXJ6dXRseTBTWkZkUlE4M3hTa25NbnY0ODhR?oc=5",
-      "image": "https://bfsi.economictimes.indiatimes.com"
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeG83OXlyS054NW9aVDJtMVZTbkZBZ0F6WlFVNnc0NWhYODV3MmFwbGNxcUE0dnhZWGxkNW83LUUza3h4dkJQTWwybjc2VnkxSDNHRXNVWmg5a3JVbHU3X284TnhMVUsxV1JXa3diM1A4SmwySHBUSEEtYjhwalM5YTd4QmJkU01uUUgwRjR2SWRZQWZ5aTh0blpPQU9jaGV0SzV4YU00YkpiQ1dYbTZzZDFGYlV6V1NJV0hUNVpid2lPWUxMeVBwTi0zbmJiV19xRmhOUUJYaTV2UTJZLWh5WHk3Z0tIOHRCTDY1Vm9CQzJ1ZHfSAfgBQVVfeXFMUC1IeWpUMExleExkN0tZWEtEWmZfRDAzSnUtejdkOEJzeVRCSTZpZVJCcThJRkU0dE0yajJJbGExejdMU25MWjJNZXV2dXBUaVZraGZKaVRjeURWQlgwTWlDNzl6SlBOZjVEelJRa01FWnh4Rmd6SkktYy1qajJZUWVob2RXbUhXc2MxYmlPR3dOaGNPMlF5aUFYNFRodlZXVFA5WG9RY1NxcVhWanJ6M084Q1VGMEpFeW11TnNqM09HeGFBakFqazRINkpOZi1oTnhUVVNNdzNJZ0haSUJOdW8zN202d19JMC1qeGFfU2NOZm0wQnJaWmw?oc=5",
+      "image": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "section": "IT",
+      "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Livemint",
+      "what": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% &nbsp;&nbsp; Livemint",
+      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
+      "image": "https://www.livemint.com"
+    },
+    {
+      "section": "IT",
+      "title": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally - Livemint",
+      "what": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally &nbsp;&nbsp; Livemint",
+      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
+      "image": "https://www.livemint.com"
     }
   ],
   "cfa": {
