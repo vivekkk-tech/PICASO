@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-11-05T11:23:40.764Z",
+  "updated_at": "2026-11-06T11:22:07.189Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
-    {
-      "section": "MARKETS",
-      "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts - TradingView",
-      "what": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts &nbsp;&nbsp; TradingView",
-      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ1MwM1M3d1pkd3d4VnpMSWhlMF9wbWxScTFNMWFoTHB6ZU1NTmcya2xaNjRoV0FlQVdwRmpZQmJCWENWWDNJSEhsLTA3ekhPbFBVWWcxaE1XYWhGX0RnR1NqWFk4czdjRTIycFlOWmZqOFZVY1BubEdYTEYxR1lyOVFqVmpwTjRJN2hEcUc0MmUtSi05UDBYNWVheFBFYjZ1d1FJZFpsUDNMdVI2ejJheElNX2hkREU0eEl5RnlTZ0RQUXBHQUlLellzS1E3dEZMc2I3cXRZSl9VeWEzNmhBOGpReUhHQVRsUFdRa1lBaFN6cnI3QXFSRHlVaw?oc=5",
-      "image": "https://www.tradingview.com"
-    },
     {
       "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
@@ -26,18 +14,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
-    },
-    {
-      "section": "MARKETS",
-      "title": "Sensex Today | Stock Market Live: Sensex surges over 750 pts, Nifty tops 23,600; Asian Paints jumps - IndiaIPO",
-      "what": "Sensex Today | Stock Market Live: Sensex surges over 750 pts, Nifty tops 23,600; Asian Paints jumps &nbsp;&nbsp; IndiaIPO",
-      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWERuQk5hODRxYXJMRWdUVjRjZks0UnpJNGppWE1md2k2d0d1MEtKdzZ1YXdMeWZrYXdvbTRiWjBmT2sycllvMS1NYlBJR1YyVXNmbnJVOExIelZZRGdIbEd0TmMzYzh3azY0TEpiTFc4VkhqdnJmWkdDeS1lVi1zZWVDRW12Z0IzbGxiU1U4b0xGNGJSQVh6VXJOdmhCVkgzTUpRdlQzNFdPd3JvdW5oYUdjZVRHSm1VYkNCZjFnNEtEVkR3eGFzRg?oc=5",
-      "image": "https://www.indiaipo.in"
     },
     {
       "section": "STARTUPS",
@@ -101,6 +77,18 @@
     },
     {
       "section": "PAINT",
+      "title": "Asian Paints, Berger, Indigo Paints: Can paint stocks weather crude price fluctuations? - Upstox",
+      "what": "Asian Paints, Berger, Indigo Paints: Can paint stocks weather crude price fluctuations? &nbsp;&nbsp; Upstox",
+      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
+      "impact": "Mixed / needs context",
+      "model": "Review COGS and EBITDA-margin assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjJNNUpUTHVFbU0wTXVWSXUzMTZwdjRTSUlmQVJVdHBqcmNDcElJdmFjek0ySVQ0NGJVV1dzSlJHQVF0S3BOQWNDbUQxX0hpUEl6V3ZTcVM3cEFmN1lzekw1ZkF5Wmk5empvLUprbkRBUTl4djhWbjRmenFiRjFVSzJfemlzdkNUOVhtbVVGMnktMXlmUFJ4RFlyWFEyS20yYk1yUkF4eHFPcHhucFNORldNZ3F6dVQxZ3g3bW0yckJteXZEYUc0S2RmQ3ZQbWZGcGZVXzR4MGwxUQ?oc=5",
+      "image": "https://upstox.com"
+    },
+    {
+      "section": "PAINT",
       "title": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders - Fortune India",
       "what": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders &nbsp;&nbsp; Fortune India",
       "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
@@ -146,10 +134,22 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
       "image": "https://www.livemint.com"
+    },
+    {
+      "section": "M&A",
+      "title": "How selective investing shaped India’s M&A deals in 2025 - EY",
+      "what": "How selective investing shaped India’s M&A deals in 2025 &nbsp;&nbsp; EY",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHltZWQ0dnM0b0FiTXFWYlp0SjAwbkVNUFZoWVEyN0YycXd5S0tuRmFBbFA4aDlJdS1zS0N5S29JQzNVRWk5enNmQkVKWWoxR3NXYzZ1bUozY0pkb2xVcmFiOEtGQWljQmFwWEhSdXpZOGp4SThHU0J2OUE4aEVnNmVzbkxvdHk3Wmc5bTQ1RTdEMnV6dWFhcjZPQ3JXVVV6U21NYlJrVjI3UDRuWTRXdA?oc=5",
+      "image": "https://www.ey.com"
     }
   ],
   "cfa": {
-    "concept": "DCF",
+    "concept": "M&A Valuation",
     "explanation": "Translate the headline into an economic driver instead of reacting to the headline itself.",
     "application": "Identify the affected assumption, change it only if the evidence supports it, then run a sensitivity test."
   },
