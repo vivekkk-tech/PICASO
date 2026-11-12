@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:21:42.198Z",
+  "updated_at": "2026-11-12T11:41:35.153Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,15 +29,15 @@
     },
     {
       "section": "STARTUPS",
-      "title": "Indian unicorns’ total valuation touched $385B in 2024: Report - YourStory.com",
-      "what": "Indian unicorns’ total valuation touched $385B in 2024: Report &nbsp;&nbsp; YourStory.com",
+      "title": "Funding and acquisitions in Indian startups this week [Nov 02- Nov 07] - Entrackr",
+      "what": "Funding and acquisitions in Indian startups this week [Nov 02- Nov 07] &nbsp;&nbsp; Entrackr",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0hMUlo3U3RDMzFTZGNFNDlUSmJpWHN4Zm9xWUg1Sk92bERRb3BRYlFya0d4MzBDbnRyMjFnWXpQTWxYS1hFdnRBUjVXNWdGLTV5QVV1cmcyWEFfQ0ZiRHV0ME5GWTVTSnQxTHB0SXhkaVZsZFN5eGNWNHlFQlp0dWFsb0c4Qm02THk0NGdlaHVrSng3TmdFRVVSYkpneVhpYUoxM0RROTN1QU9C?oc=5",
-      "image": "https://yourstory.com"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUNvMlpYcEs3MkF3OXItSXdPMVU4aHBZYWhoSUtBU25zZ3NGTEZENDE2NjhGUUVxbXE1VTVZT2ZDeXJxZ2x1U0hKNEo3OHZBR0QtR3N2NjZwVDV0V1BrYURBdFVGdlo1WkJnOGlWOWEyQ1hCTWNYVDNWUF9pQnBoU0k2SHcwdTQycDBWMG8wVHVQdWtxRmdWeGRYX1ZnLUpDaVY5eHJDUmt2X2hXbHUzZ1JhR0gxQXFVOV9WOVVnZVlaRkR2TGVfWGxkMjM5c0Y4UGpNQjNtNmxfWnNHMTJYQnhR0gHiAUFVX3lxTFBNQ28yWlhwSzcyQXc5ci1Jd08xVThocFlhaGhJS0FTbnNnc0ZMRkQ0MTY2OEZRRXFtcTVVNVlPZkN5cnFnbHVTSEo0Sjc4dkFHRC1Hc3Y2NnBUNXRXUGthREF0VUZ2WjVaQmc4aVY5YTJDWEJNY1hUM1ZQX2lCcGhTSTZIdzB1NDJwMFYwbzBUdVB1a3FGZ1Z4ZFhfVmctSkNpVjl4ckNSa3ZfaFdsdTNnUmFHSDFBcVU5X1Y5VWdlWVpGRHZMZV9YbGQyMzlzRjhQak1CM202bF9ac0cxMlhCeFE?oc=5",
+      "image": "https://entrackr.com"
     },
     {
       "section": "STARTUPS",
@@ -61,6 +61,18 @@
       "reading_time": "20",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEU1VFdQYnBmZi1yYzFISXRCdXVjSEFha2lYZjNGekphUFJQMzNHVmxOaWNseHR4MnRmRXVjbkpBUGQxYWo4azcweDJxSzRrT2xuczdDZ1JTeldaMm85RWRTTEdUeGFoUXFfdkhyWF9nRHA2LWllNGtBWGN3Q054dGpmV3VsTmEyYVZTeks5MjXSAZABQVVfeXFMTWhFNVRXUGJwZmYtcmMxSEl0QnV1Y0hBYWtpWGYzRnpKYVBSUDMzR1ZsTmljbHh0eDJ0ZkV1Y25KQVBkMWFqOGs3MHgycUs0a09sbnM3Q2dSU3pXWjJvOUVkU0xHVHhhaFFxX3ZIclhfZ0RwNi1pZTRrQVhjd0NOeHRqZld1bE5hMmFWU3pLOTI1?oc=5",
+      "image": "https://entrackr.com"
+    },
+    {
+      "section": "STARTUPS",
+      "title": "Indian startups raised $38 billion in 2021: Entrackr report - Entrackr",
+      "what": "Indian startups raised $38 billion in 2021: Entrackr report &nbsp;&nbsp; Entrackr",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2ZVbnJ6cnVHbUNfV2JHOWxlSDVQN2hUV1dsOWpGS2hpbVJySGRHVmo4QU9xX0xDcURiYklWVVlCRTFHb0RyM1QtWFNuMjJzOFdna1EtMzdnTHNlbHUwYjVuS1hJNlRlSG5kdGZBWE4tR1ZKc2JBQk5IcVpfYnBxQ2JWczM0djNYQXlkS0JDQmPSAZABQVVfeXFMTk9mVW5yenJ1R21DX1diRzlsZUg1UDdoVFdXbDlqRktoaW1SckhkR1ZqOEFPcV9MQ3FEYmJJVlVZQkUxR29EcjNULVhTbjIyczhXZ2tRLTM3Z0xzZWx1MGI1bktYSTZUZUhuZHRmQVhOLUdWSnNiQUJOSHFaX2JwcUNiVnMzNHYzWEF5ZEtCQ0Jj?oc=5",
       "image": "https://entrackr.com"
     },
     {
@@ -134,18 +146,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
       "image": "https://www.livemint.com"
-    },
-    {
-      "section": "M&A",
-      "title": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value - India Briefing",
-      "what": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value &nbsp;&nbsp; India Briefing",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2gzdi14bVlLdzRXd0Q3Q1Y3MC1oYk80RDJIelFpR0hrTlM5X1RZMVpFVkJqSXpIaURwVWI5bTl5M2VsNUhDT3U5ZUI1UFRpMksybGtlVlVhMEpkVThXNDBEQUhmTGdWdjhWbGphbkVSelRHWDNXSHlLb3NjTDIySFVuWDRaV21RRjRlay1SX0gwNU0zdFRwbjg5d0hHMnl3R2RyVm1iNTU1UkFYQ2JybllPWUxFeG81U3VF?oc=5",
-      "image": "https://www.india-briefing.com"
     }
   ],
   "cfa": {
