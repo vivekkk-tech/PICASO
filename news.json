@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-12T11:41:35.153Z",
+  "updated_at": "2026-11-13T11:25:16.410Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
+    {
+      "section": "M&A",
+      "title": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals - Business Viewpoint Magazine",
+      "what": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals &nbsp;&nbsp; Business Viewpoint Magazine",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwa2p0Nm1UNnp6Z3ktRk02ZGVGVHdjRkt2UjdDaHhaTS1nNDIwcUp1VG9TNjlYY2VXNDFDTHlnOFpqMzZRLXRYMHJzNzBNcHk0SEczcVlCNFZVdlpYcTdhSENmTzRvRkxXajdJ?oc=5",
+      "image": "https://businessviewpointmagazine.com"
+    },
     {
       "section": "M&A",
       "title": "India's M&A deal value reaches $60.2 billion in 2025, BFSI adds the largest share: Report - bfsi.economictimes.indiatimes.com",
@@ -16,6 +28,18 @@
       "image": "https://bfsi.economictimes.indiatimes.com"
     },
     {
+      "section": "M&A",
+      "title": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape - CNBC TV18",
+      "what": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlh2WDBYR01JbjJvcmdscmIwZm1wcVp5N3ozdHFCTHBnU2tuOXp1b1Rja0trS2dBeGk3NURvSGNEYU1uSjdmWkJjbFBRRldaZnVTQ013S1gzYVEwZWtQZlFxV2RoZUZjUXh0YnB0MV96S0NYVVdLLUJjSS1TQVFEYWFaOHdHZDdXNTZCY3o3Tm9IdW9hS2F4cHpPUnptUWpQOVNmSGREMUtuQdIBrwFBVV95cUxPbF9VSnU0N2hBS05jRkc3UGxEMmpXYlVqX0NzanZRMnh5b0UzdHA1TUlUV2lvOVI0dWJQZFJ5aFFTT2RjX2VsZDQxSjdhYWxFWUtrWmMxTTJKRW9BYzY0LXpqOU1TR0dtV3kyemFTOUg4YnlibFhSMmpGcGJXQkF4eXRtWFl1Y0U5c0ZTQnl4Y2tvWE95bUhfdEppRTVJM0k2YlMzMl9GaFZSd1R4cHZN?oc=5",
+      "image": "https://www.cnbctv18.com"
+    },
+    {
       "section": "STARTUPS",
       "title": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] - Entrackr",
       "what": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] &nbsp;&nbsp; Entrackr",
@@ -25,18 +49,6 @@
       "reading_time": "20",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlHMk5yMFgzQWptdnpKVGJRTlN5VUVCcW42eFNDUk9KYk56ZWlDbnBYYWlvUlRQWFBZS1NFN1Ztc0M2MGc0WV9WcUhFV24wNU15ejJMUkFLMmJlRF9QbzBaZ3VMREJ1bHgzamZFa0ZxcWRjWThJczlLa2NnTWM2eXlaLVJyNnNaZHpvWkk1VU9pSklWd2FVSkFnS3NTWUg3b3ppbTdGdmIxdWNNbkZzRWxfc3RyeUU4c0RQZjVXSFF2Yk9xU3BCbVVyT2V6OHRJQU1KTDlOYUhPV2U0bnBWSjdn0gHiAUFVX3lxTE1YaUcyTnIwWDNBam12ekpUYlFOU3lVRUJxbjZ4U0NST0piTnplaUNucFhhaW9SVFBYUFlLU0U3Vm1zQzYwZzRZX1ZxSEVXbjA1TXl6MkxSQUsyYmVEX1BvMFpndUxEQnVseDNqZkVrRnFxZGNZOElzOUtrY2dNYzZ5eVotUnI2c1pkem9aSTVVT2lKSVZ3YVVKQWdLc1NZSDdvemltN0Z2YjF1Y01uRnNFbF9zdHJ5RThzRFBmNVdIUXZiT3FTcEJtVXJPZXo4dElBTUpMOU5hSE9XZTRucFZKN2c?oc=5",
-      "image": "https://entrackr.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "Funding and acquisitions in Indian startups this week [Nov 02- Nov 07] - Entrackr",
-      "what": "Funding and acquisitions in Indian startups this week [Nov 02- Nov 07] &nbsp;&nbsp; Entrackr",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTUNvMlpYcEs3MkF3OXItSXdPMVU4aHBZYWhoSUtBU25zZ3NGTEZENDE2NjhGUUVxbXE1VTVZT2ZDeXJxZ2x1U0hKNEo3OHZBR0QtR3N2NjZwVDV0V1BrYURBdFVGdlo1WkJnOGlWOWEyQ1hCTWNYVDNWUF9pQnBoU0k2SHcwdTQycDBWMG8wVHVQdWtxRmdWeGRYX1ZnLUpDaVY5eHJDUmt2X2hXbHUzZ1JhR0gxQXFVOV9WOVVnZVlaRkR2TGVfWGxkMjM5c0Y4UGpNQjNtNmxfWnNHMTJYQnhR0gHiAUFVX3lxTFBNQ28yWlhwSzcyQXc5ci1Jd08xVThocFlhaGhJS0FTbnNnc0ZMRkQ0MTY2OEZRRXFtcTVVNVlPZkN5cnFnbHVTSEo0Sjc4dkFHRC1Hc3Y2NnBUNXRXUGthREF0VUZ2WjVaQmc4aVY5YTJDWEJNY1hUM1ZQX2lCcGhTSTZIdzB1NDJwMFYwbzBUdVB1a3FGZ1Z4ZFhfVmctSkNpVjl4ckNSa3ZfaFdsdTNnUmFHSDFBcVU5X1Y5VWdlWVpGRHZMZV9YbGQyMzlzRjhQak1CM202bF9ac0cxMlhCeFE?oc=5",
       "image": "https://entrackr.com"
     },
     {
@@ -89,18 +101,6 @@
     },
     {
       "section": "PAINT",
-      "title": "Asian Paints, Berger, Indigo Paints: Can paint stocks weather crude price fluctuations? - Upstox",
-      "what": "Asian Paints, Berger, Indigo Paints: Can paint stocks weather crude price fluctuations? &nbsp;&nbsp; Upstox",
-      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
-      "impact": "Mixed / needs context",
-      "model": "Review COGS and EBITDA-margin assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjJNNUpUTHVFbU0wTXVWSXUzMTZwdjRTSUlmQVJVdHBqcmNDcElJdmFjek0ySVQ0NGJVV1dzSlJHQVF0S3BOQWNDbUQxX0hpUEl6V3ZTcVM3cEFmN1lzekw1ZkF5Wmk5empvLUprbkRBUTl4djhWbjRmenFiRjFVSzJfemlzdkNUOVhtbVVGMnktMXlmUFJ4RFlyWFEyS20yYk1yUkF4eHFPcHhucFNORldNZ3F6dVQxZ3g3bW0yckJteXZEYUc0S2RmQ3ZQbWZGcGZVXzR4MGwxUQ?oc=5",
-      "image": "https://upstox.com"
-    },
-    {
-      "section": "PAINT",
       "title": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders - Fortune India",
       "what": "Birla Opus shakes up Indian paint industry as demand slump hits market leaders &nbsp;&nbsp; Fortune India",
       "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
@@ -110,6 +110,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFgwQ1BRNllFX00wbDBWX1ZWc01YSEY4c1dTYTNmS2dVSE9qcUxfbEhqaERNU2hPeWdnQVVrZ0tyeG56c1NFSGpkQ0FMTkpvN2lfYVBXc2R2SWtySzJQVFB6Tk1xbnZTSnFOamREVVo5V3JSMW10bV8tNTIwMXhKM2V5NHFxQ3FWVnNzT1I4NWwtZWJNRUdpN1k3d2VhSi1FZVN4MzZqVGtDdUo0bnhzZ2tUTThKWGhkMHhVWlVqUDk1N2kxVjRN0gHUAUFVX3lxTFBYa21Zcnh4SVBQRUVYR214MW83VFhEVW1vUW5FS09vbDZWZHZNS1dONTdmMlBrai1FTXkwaFlwYk4wakQxaFZGZnBNUS1GZ01NSkxqakpxcGkzN1lESVNIWVFDajg2NTkzS0pvM0Rkd2NGMWRQbnJOZ05oS1V3WjJqLVBEbXF3MmhvYmJOMzJQSkFzSWN5T245bnlLNzR4emt0RE0ydFAtbXJQSDU3Z1hpMGVkTTh2aTZjSWdqTXFXTHIzWTJabDV1RjJWcjllY3NGRHBK?oc=5",
       "image": "https://www.fortuneindia.com"
+    },
+    {
+      "section": "PAINT",
+      "title": "Asian Paints Sells Entire 4.42% Stake For ₹734 Crore In Akzo Nobel India - Free Press Journal",
+      "what": "Asian Paints Sells Entire 4.42% Stake For ₹734 Crore In Akzo Nobel India &nbsp;&nbsp; Free Press Journal",
+      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
+      "impact": "Mixed / needs context",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkNXdkFBcTM2MDVURUNfNVNvZ2NaeWNZcEFicVpSX3M4Nzc0czlsNHc0aktoSzZfQ0E0Z2NuSjJOUF9KdUpfWkxRWjdva21LZWVvVVQyMEllVHdsYjFYdk1CR2E4NjE3SEJGLUpkQkk0UVZYcDdtdHJoLTEtTTlwaXdwZ240LUZBU2x6VzNDcHJicnB2YzQwbmtkd0dKUXpPdDM0SFNDRW1JYk9DblVr0gG0AUFVX3lxTFBiLWJBVC00UmQyZW91UGgyOTFNOVdxWVVydVpTR2pXS0xmVUxEQVlTUGx2aWhwVk5JeXJoTkxPOEhEYThhZHV5cVI3MkMtaE9ndURHOEd1dDNrZW5oUV9aNWNteXMxTmVYTHZMNjBuQUppVkYzdmlrbWRINjl5c0JlM2RqamRVbExrTHdzY0VTRW9CS0VTTWt2ZzVHWGREeDFOSjN1Zm95aVZER2pjYWQzeG5uNw?oc=5",
+      "image": "https://www.freepressjournal.in"
     },
     {
       "section": "IT",
@@ -133,18 +145,6 @@
       "reading_time": "20",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
-      "image": "https://www.livemint.com"
-    },
-    {
-      "section": "IT",
-      "title": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally - Livemint",
-      "what": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally &nbsp;&nbsp; Livemint",
-      "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
       "image": "https://www.livemint.com"
     }
   ],
