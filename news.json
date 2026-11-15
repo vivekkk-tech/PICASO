@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:47:46.411Z",
+  "updated_at": "2026-11-15T11:23:49.874Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -26,18 +26,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape - CNBC TV18",
-      "what": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape &nbsp;&nbsp; CNBC TV18",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlh2WDBYR01JbjJvcmdscmIwZm1wcVp5N3ozdHFCTHBnU2tuOXp1b1Rja0trS2dBeGk3NURvSGNEYU1uSjdmWkJjbFBRRldaZnVTQ013S1gzYVEwZWtQZlFxV2RoZUZjUXh0YnB0MV96S0NYVVdLLUJjSS1TQVFEYWFaOHdHZDdXNTZCY3o3Tm9IdW9hS2F4cHpPUnptUWpQOVNmSGREMUtuQdIBrwFBVV95cUxPbF9VSnU0N2hBS05jRkc3UGxEMmpXYlVqX0NzanZRMnh5b0UzdHA1TUlUV2lvOVI0dWJQZFJ5aFFTT2RjX2VsZDQxSjdhYWxFWUtrWmMxTTJKRW9BYzY0LXpqOU1TR0dtV3kyemFTOUg4YnlibFhSMmpGcGJXQkF4eXRtWFl1Y0U5c0ZTQnl4Y2tvWE95bUhfdEppRTVJM0k2YlMzMl9GaFZSd1R4cHZN?oc=5",
-      "image": "https://www.cnbctv18.com"
     },
     {
       "section": "STARTUPS",
@@ -73,18 +61,6 @@
       "reading_time": "20",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEU1VFdQYnBmZi1yYzFISXRCdXVjSEFha2lYZjNGekphUFJQMzNHVmxOaWNseHR4MnRmRXVjbkpBUGQxYWo4azcweDJxSzRrT2xuczdDZ1JTeldaMm85RWRTTEdUeGFoUXFfdkhyWF9nRHA2LWllNGtBWGN3Q054dGpmV3VsTmEyYVZTeks5MjXSAZABQVVfeXFMTWhFNVRXUGJwZmYtcmMxSEl0QnV1Y0hBYWtpWGYzRnpKYVBSUDMzR1ZsTmljbHh0eDJ0ZkV1Y25KQVBkMWFqOGs3MHgycUs0a09sbnM3Q2dSU3pXWjJvOUVkU0xHVHhhaFFxX3ZIclhfZ0RwNi1pZTRrQVhjd0NOeHRqZld1bE5hMmFWU3pLOTI1?oc=5",
-      "image": "https://entrackr.com"
-    },
-    {
-      "section": "STARTUPS",
-      "title": "Indian startups raised $38 billion in 2021: Entrackr report - Entrackr",
-      "what": "Indian startups raised $38 billion in 2021: Entrackr report &nbsp;&nbsp; Entrackr",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2ZVbnJ6cnVHbUNfV2JHOWxlSDVQN2hUV1dsOWpGS2hpbVJySGRHVmo4QU9xX0xDcURiYklWVVlCRTFHb0RyM1QtWFNuMjJzOFdna1EtMzdnTHNlbHUwYjVuS1hJNlRlSG5kdGZBWE4tR1ZKc2JBQk5IcVpfYnBxQ2JWczM0djNYQXlkS0JDQmPSAZABQVVfeXFMTk9mVW5yenJ1R21DX1diRzlsZUg1UDdoVFdXbDlqRktoaW1SckhkR1ZqOEFPcV9MQ3FEYmJJVlVZQkUxR29EcjNULVhTbjIyczhXZ2tRLTM3Z0xzZWx1MGI1bktYSTZUZUhuZHRmQVhOLUdWSnNiQUJOSHFaX2JwcUNiVnMzNHYzWEF5ZEtCQ0Jj?oc=5",
       "image": "https://entrackr.com"
     },
     {
@@ -137,15 +113,39 @@
     },
     {
       "section": "IT",
-      "title": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% - Livemint",
-      "what": "Infosys to TCS, HCL Tech: Indian IT stocks crash as Accenture trims revenue guidance; Nifty IT index down 6.5% &nbsp;&nbsp; Livemint",
+      "title": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally - Livemint",
+      "what": "India-US trade deal: Analysts say deal provides macro-predictability for IT sector; Persistent, Coforge, Infosys rally &nbsp;&nbsp; Livemint",
       "why": "IT earnings are sensitive to demand, pricing, currency, wages and margins.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
+      "image": "https://www.livemint.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Overview of M&A laws in India - Law.asia",
+      "what": "Overview of M&A laws in India &nbsp;&nbsp; Law.asia",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTjlfSy03RlpfV1k5Q0x0Tkhlc085Q3FJUjRESWlRUjFHaFBrckhwN3BLaXNUcjd1ZVU1ZF80dlpSb25TTENwUnVOS193M1ItNlpfX09PY3dtTG83QUdBR21EODhsYkJJSEM0ajBrTVVnMldkTzdQWXo5N2ROZGJlSWVCN3AyLWV0cDdrU0RTR0piNnVobWhQMDh1eDRDcW1sM3g5NXNFZ2F3clI4d3dVNmdWdG1mR3QyU3VBRnFleUdtclZETUxEU2d0aTVxc0pxMXRONXBsRTdjTlZyRlczNzRzdXdQM0pGRGpObkpZT2VYb05PaWdRMWdwdEM2UDdIcVNkb2Fn0gGLAkFVX3lxTE11OWNyN2RiTkNWNFJiMk81R0ZlRkhWSEhrdXJTNFJYUkZxbEdXV0gxdVlGclVTZUNnTHkzOG5Nc1dQNjNsaVg3RHZjSEd6MDdnX3c2bWFHR0IyTXNqWktIYjdVdEJocFdoTFdXR1lPT0ExMEdBaHBNV2x4OWF2ODIwTzk1M3JGQ0MzVktjeU9MU1Z4UUtlcGxTZWdJSkFIdWhLOThHY250dzM2UkdMNG1pVC1UUDdISlR6U0J4Wm5OZGxYbXVPcEtYWFRzdmdCU0QtZzhqUzhYQkJpcHZfOTJzSTVaZThlQlhJeHNQN2VuZlNrcW8wZm1YYndodnNyNjFIN0ZLdzVtWlVnbw?oc=5",
-      "image": "https://www.livemint.com"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WUWFISHhBSEk5YmVyVHR1b1pZQVVmVUNSREdaUlZuZHNSRVNidldLLTZWVGV5cHJETklpTFYyNzJrOWRqUWhWQUk5YnF5OFl5OGRIdlVBUnRZdUEteWRLS2FpU2NJaWU1OHEwam0xZ2pZcTA?oc=5",
+      "image": "https://law.asia"
+    },
+    {
+      "section": "M&A",
+      "title": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value - India Briefing",
+      "what": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value &nbsp;&nbsp; India Briefing",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2gzdi14bVlLdzRXd0Q3Q1Y3MC1oYk80RDJIelFpR0hrTlM5X1RZMVpFVkJqSXpIaURwVWI5bTl5M2VsNUhDT3U5ZUI1UFRpMksybGtlVlVhMEpkVThXNDBEQUhmTGdWdjhWbGphbkVSelRHWDNXSHlLb3NjTDIySFVuWDRaV21RRjRlay1SX0gwNU0zdFRwbjg5d0hHMnl3R2RyVm1iNTU1UkFYQ2JybllPWUxFeG81U3VF?oc=5",
+      "image": "https://www.india-briefing.com"
     }
   ],
   "cfa": {
