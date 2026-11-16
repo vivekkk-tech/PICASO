@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-15T11:23:49.874Z",
+  "updated_at": "2026-11-16T11:55:32.179Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
+    {
+      "section": "STARTUPS",
+      "title": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report - bfsi.economictimes.indiatimes.com",
+      "what": "India records two fintech unicorns, two IPOs and seven acquisitions in H1 2026: Report &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Potentially positive",
+      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnpab2tlVVBYSU9xekxPbzhiLUN6YVlOMVByNUFyVGVRakNnUnI4aHQ3Mm85Q01wVkRpVUltR3l5akxkLWIzT0hFWWpVXzlTakhkamUxcWVGR0M2Z09xLUNQRS1LeFF1ZlFwVHNmTmxiMUtlbWZFMGJzLW5BT1I5Y1FSbU94cmdyd2tDcmUzc2ZXRnFMM2QwZ1pILUZLWkxPYTZJRlNKZ21tNmZOVUw4UmZ3d1VaTXJSMHVpQVZ0SmlSU3ppTkJ4V09wLUE3NmVJWG5LMWlTaEp3U2xhbTZz0gHkAUFVX3lxTFBCVlQxRVFEampFUWhWLWxDTnhPY1lKNmtZMWVVYVJ1VmZHSlZqNUpvZFFJSy1rMXRjNUNTbmg5cnM3RUdRRWVubEZ2M2lnSEJSS3NlTWJ3TDJoeG1qdlF1WUlkOS1PUGJYMFpzc2M5X24xTjRkbmdUZHhVN2pzMW5LRjhCSnp3aXR0YkFLcV9uSTJLYWNiWTJkWmpOLTZVNl9rWjdlRE92eHV1T3JxX3hKUm1ZTUpKTjlYZ2tCVWwxOE5BN1VkLVdLeGcwd29zcnNpN1dmQ1ZOeUFNZnIwbHhqb3hwMA?oc=5",
+      "image": "https://bfsi.economictimes.indiatimes.com"
+    },
     {
       "section": "M&A",
       "title": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals - Business Viewpoint Magazine",
@@ -26,6 +38,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFJoVURxZWlEY3hqWTRDWW1ERG5HclBNVUZzLUlUcFI4UkxwVmo2NW5sWXZTUGJ0VTh1cDRGb2Z4S3pPbFZXaHc4Y0xKcmUwWDdrRkZUSFd3N2FhR1g0Y2RkYnJOalFHWTFzNVVDTXp5ampmelRXUUZXSkxmd3Fzb2VKYmdlTEtaQklycDZCXzFZQ0pZZmc1MHp5a1F6Rk8tdE1oVjJMc1EzTUd5bWZJRG9sSmJmU2JoRTFqZXUxZnVuUdIBxwFBVV95cUxOcTJhRkJ2YjFzbC1JWExoZDI2dXZtMklmcllCZUowM2NlMGk2ekNsbnlta3RSVzV1S3pvOHJ6eEpQTkpwczVLdHFyb3o1VlNaOFluODFEVFI3MlpfMWlNLWlJbW12ZDVxOFI5YXJKQ2xPQXpvY01mUnR3TG9GNnhyRFNOXzFvSkRuUDN3S3VDQ1ZTWm1mRFFRdkxDaHJKSkFzZVgwQUxSd0xDR0RJQU5XeVJPX0d4LXNGMGNaM1UyQk9obm42cXlR?oc=5",
       "image": "https://bfsi.economictimes.indiatimes.com"
+    },
+    {
+      "section": "M&A",
+      "title": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape - CNBC TV18",
+      "what": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape &nbsp;&nbsp; CNBC TV18",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Potentially positive",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlh2WDBYR01JbjJvcmdscmIwZm1wcVp5N3ozdHFCTHBnU2tuOXp1b1Rja0trS2dBeGk3NURvSGNEYU1uSjdmWkJjbFBRRldaZnVTQ013S1gzYVEwZWtQZlFxV2RoZUZjUXh0YnB0MV96S0NYVVdLLUJjSS1TQVFEYWFaOHdHZDdXNTZCY3o3Tm9IdW9hS2F4cHpPUnptUWpQOVNmSGREMUtuQdIBrwFBVV95cUxPbF9VSnU0N2hBS05jRkc3UGxEMmpXYlVqX0NzanZRMnh5b0UzdHA1TUlUV2lvOVI0dWJQZFJ5aFFTT2RjX2VsZDQxSjdhYWxFWUtrWmMxTTJKRW9BYzY0LXpqOU1TR0dtV3kyemFTOUg4YnlibFhSMmpGcGJXQkF4eXRtWFl1Y0U5c0ZTQnl4Y2tvWE95bUhfdEppRTVJM0k2YlMzMl9GaFZSd1R4cHZN?oc=5",
+      "image": "https://www.cnbctv18.com"
     },
     {
       "section": "STARTUPS",
@@ -52,16 +76,16 @@
       "image": "https://entrackr.com"
     },
     {
-      "section": "STARTUPS",
-      "title": "Indian startups raised over $25 Bn in 2022: Entrackr Report - Entrackr",
-      "what": "Indian startups raised over $25 Bn in 2022: Entrackr Report &nbsp;&nbsp; Entrackr",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "section": "MARKETS",
+      "title": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead - Fortune India",
+      "what": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead &nbsp;&nbsp; Fortune India",
+      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEU1VFdQYnBmZi1yYzFISXRCdXVjSEFha2lYZjNGekphUFJQMzNHVmxOaWNseHR4MnRmRXVjbkpBUGQxYWo4azcweDJxSzRrT2xuczdDZ1JTeldaMm85RWRTTEdUeGFoUXFfdkhyWF9nRHA2LWllNGtBWGN3Q054dGpmV3VsTmEyYVZTeks5MjXSAZABQVVfeXFMTWhFNVRXUGJwZmYtcmMxSEl0QnV1Y0hBYWtpWGYzRnpKYVBSUDMzR1ZsTmljbHh0eDJ0ZkV1Y25KQVBkMWFqOGs3MHgycUs0a09sbnM3Q2dSU3pXWjJvOUVkU0xHVHhhaFFxX3ZIclhfZ0RwNi1pZTRrQVhjd0NOeHRqZld1bE5hMmFWU3pLOTI1?oc=5",
-      "image": "https://entrackr.com"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVFicENfM2MzeDYzZFlEZjVqeWR2Qlp5VU5XUGlmYXVUUlRGSFdPczBvemxxNHRLWUF1TUxoYjR0UmhKVkUzOEFQTC1fRTlfM0lCUWVIcTg2RlFwQTYxel9YZm5TN0xrRmRoZkt6RXRFc3pIdGlqY3ZsR1MzT0hKelJrTUl0ZmQ4Q0d3a0VuajVzZFZoOGpEUTlMSjRFRmJXM0NKcDBxZXZMYVowVnNUYkpNMHNoQ3VsY0ZjRE8yRU1HT3g0X2FyTHBnSjFhZVlmUmthNlllTWRLTHVO0gHqAUFVX3lxTE81cUdGUk9ON3NRVFA1VDZFWE9vTW5IeVNqeWo5MzBTV0d4NEd0cE1jcWo3RDJFakdqY2tQOWNaTW1NUlVqNEFSUnk4dE1NZG5NNGtCalpIR3hHbE1BenpqU24yUm9xUmdvQ3pRR1B1d25oMUl1c2pUVGdvUHM5a3FRSHVqUDMxNVd3c2p3aHFybVFPZ0FpYlF0RjdBZkxfQ2lSTFBsaGtlSGQ1YVo5RXl4dmJKRy1BZ0RVanFHeVNuaXBaRHRpWURMQXhKZkctNi1Pb1hkUE54LXpCQnpxWXJ4NkJwUzM3VlBxdw?oc=5",
+      "image": "https://www.fortuneindia.com"
     },
     {
       "section": "PAINT",
@@ -122,34 +146,10 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
       "image": "https://www.livemint.com"
-    },
-    {
-      "section": "M&A",
-      "title": "Overview of M&A laws in India - Law.asia",
-      "what": "Overview of M&A laws in India &nbsp;&nbsp; Law.asia",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WUWFISHhBSEk5YmVyVHR1b1pZQVVmVUNSREdaUlZuZHNSRVNidldLLTZWVGV5cHJETklpTFYyNzJrOWRqUWhWQUk5YnF5OFl5OGRIdlVBUnRZdUEteWRLS2FpU2NJaWU1OHEwam0xZ2pZcTA?oc=5",
-      "image": "https://law.asia"
-    },
-    {
-      "section": "M&A",
-      "title": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value - India Briefing",
-      "what": "India's M&A Market Q1 2026: Why Deal Count Matters More Than Deal Value &nbsp;&nbsp; India Briefing",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2gzdi14bVlLdzRXd0Q3Q1Y3MC1oYk80RDJIelFpR0hrTlM5X1RZMVpFVkJqSXpIaURwVWI5bTl5M2VsNUhDT3U5ZUI1UFRpMksybGtlVlVhMEpkVThXNDBEQUhmTGdWdjhWbGphbkVSelRHWDNXSHlLb3NjTDIySFVuWDRaV21RRjRlay1SX0gwNU0zdFRwbjg5d0hHMnl3R2RyVm1iNTU1UkFYQ2JybllPWUxFeG81U3VF?oc=5",
-      "image": "https://www.india-briefing.com"
     }
   ],
   "cfa": {
-    "concept": "M&A Valuation",
+    "concept": "DCF",
     "explanation": "Translate the headline into an economic driver instead of reacting to the headline itself.",
     "application": "Identify the affected assumption, change it only if the evidence supports it, then run a sensitivity test."
   },
