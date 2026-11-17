@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:55:32.179Z",
+  "updated_at": "2026-11-17T12:18:49.918Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -40,18 +40,6 @@
       "image": "https://bfsi.economictimes.indiatimes.com"
     },
     {
-      "section": "M&A",
-      "title": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape - CNBC TV18",
-      "what": "Big-ticket deals & strategic buyouts reshaping India’s M&A landscape &nbsp;&nbsp; CNBC TV18",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlh2WDBYR01JbjJvcmdscmIwZm1wcVp5N3ozdHFCTHBnU2tuOXp1b1Rja0trS2dBeGk3NURvSGNEYU1uSjdmWkJjbFBRRldaZnVTQ013S1gzYVEwZWtQZlFxV2RoZUZjUXh0YnB0MV96S0NYVVdLLUJjSS1TQVFEYWFaOHdHZDdXNTZCY3o3Tm9IdW9hS2F4cHpPUnptUWpQOVNmSGREMUtuQdIBrwFBVV95cUxPbF9VSnU0N2hBS05jRkc3UGxEMmpXYlVqX0NzanZRMnh5b0UzdHA1TUlUV2lvOVI0dWJQZFJ5aFFTT2RjX2VsZDQxSjdhYWxFWUtrWmMxTTJKRW9BYzY0LXpqOU1TR0dtV3kyemFTOUg4YnlibFhSMmpGcGJXQkF4eXRtWFl1Y0U5c0ZTQnl4Y2tvWE95bUhfdEppRTVJM0k2YlMzMl9GaFZSd1R4cHZN?oc=5",
-      "image": "https://www.cnbctv18.com"
-    },
-    {
       "section": "STARTUPS",
       "title": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] - Entrackr",
       "what": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] &nbsp;&nbsp; Entrackr",
@@ -76,16 +64,28 @@
       "image": "https://entrackr.com"
     },
     {
+      "section": "STARTUPS",
+      "title": "Indian startups raised $38 billion in 2021: Entrackr report - Entrackr",
+      "what": "Indian startups raised $38 billion in 2021: Entrackr report &nbsp;&nbsp; Entrackr",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2ZVbnJ6cnVHbUNfV2JHOWxlSDVQN2hUV1dsOWpGS2hpbVJySGRHVmo4QU9xX0xDcURiYklWVVlCRTFHb0RyM1QtWFNuMjJzOFdna1EtMzdnTHNlbHUwYjVuS1hJNlRlSG5kdGZBWE4tR1ZKc2JBQk5IcVpfYnBxQ2JWczM0djNYQXlkS0JDQmPSAZABQVVfeXFMTk9mVW5yenJ1R21DX1diRzlsZUg1UDdoVFdXbDlqRktoaW1SckhkR1ZqOEFPcV9MQ3FEYmJJVlVZQkUxR29EcjNULVhTbjIyczhXZ2tRLTM3Z0xzZWx1MGI1bktYSTZUZUhuZHRmQVhOLUdWSnNiQUJOSHFaX2JwcUNiVnMzNHYzWEF5ZEtCQ0Jj?oc=5",
+      "image": "https://entrackr.com"
+    },
+    {
       "section": "MARKETS",
-      "title": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead - Fortune India",
-      "what": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead &nbsp;&nbsp; Fortune India",
+      "title": "Sensex opens over 100 points higher, Nifty above 25,300; Adani Ports, Asian Paints among top gainers - India Today",
+      "what": "Sensex opens over 100 points higher, Nifty above 25,300; Adani Ports, Asian Paints among top gainers &nbsp;&nbsp; India Today",
       "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
       "impact": "Mixed / needs context",
       "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVFicENfM2MzeDYzZFlEZjVqeWR2Qlp5VU5XUGlmYXVUUlRGSFdPczBvemxxNHRLWUF1TUxoYjR0UmhKVkUzOEFQTC1fRTlfM0lCUWVIcTg2RlFwQTYxel9YZm5TN0xrRmRoZkt6RXRFc3pIdGlqY3ZsR1MzT0hKelJrTUl0ZmQ4Q0d3a0VuajVzZFZoOGpEUTlMSjRFRmJXM0NKcDBxZXZMYVowVnNUYkpNMHNoQ3VsY0ZjRE8yRU1HT3g0X2FyTHBnSjFhZVlmUmthNlllTWRLTHVO0gHqAUFVX3lxTE81cUdGUk9ON3NRVFA1VDZFWE9vTW5IeVNqeWo5MzBTV0d4NEd0cE1jcWo3RDJFakdqY2tQOWNaTW1NUlVqNEFSUnk4dE1NZG5NNGtCalpIR3hHbE1BenpqU24yUm9xUmdvQ3pRR1B1d25oMUl1c2pUVGdvUHM5a3FRSHVqUDMxNVd3c2p3aHFybVFPZ0FpYlF0RjdBZkxfQ2lSTFBsaGtlSGQ1YVo5RXl4dmJKRy1BZ0RVanFHeVNuaXBaRHRpWURMQXhKZkctNi1Pb1hkUE54LXpCQnpxWXJ4NkJwUzM3VlBxdw?oc=5",
-      "image": "https://www.fortuneindia.com"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVzY0ZER1cTA2U1VSTWZlNkF3SUs4ZVA2eU1lUF9aaEdnUDJCb0R1ZGFMSDZnTkpQVFQxUXpzankxaFVMTEFoQzgwX190U21LNnZ1TTR3QW1HV1J6ekhFd284a09iVi1wYVNLaTJYMGdSZDFNVzRPNHJKVHFPWUFIdjVoQkx2ZDE4a2t2U0FHNkhfRVlqSXktUVZQd2o4STlKeVRzb0FXZ1RMRGhxTmtoR0FzcDBXLWhmdmhpbzJmLUdTZ0FwMndqNUlVU0FaSlBxMEIwN3VTamY1cFA3WW5JV2lISko0d1AyZ3pzeTJkQWNaQjZqWVHSAfsBQVVfeXFMTjdfcGlPMWN2aFg4aHB0bjM2ZWpMVHo0MUJHVzYyVlZhQ2hGbWNDLWpjc1QzMHYtS3JpQXVIeHgzTmItN0cxOF9hbm5EU0JDZ2tTRDdPdThQSlphZlliQ3FUeGt3QjhqTUhNSWtmTTE0TDNrY1NsNm9qWDB2YkhOS3d1WVhzbEZUcVczd2pSZWgzbEJCX1llN3NkaWZvamR6TlRtVlNFZ0pFZ1RNWE9wVjJOTXN4SE5OeFFpRlFrc2lSZmk1YmhXeUFjTTk3ajBNOGRDcEhJNU5aSmxDTzlwTVBHQ0ZaMlpHMW5LUFdYcm55dlRlaGZpVjFlRlE?oc=5",
+      "image": "https://www.indiatoday.in"
     },
     {
       "section": "PAINT",
