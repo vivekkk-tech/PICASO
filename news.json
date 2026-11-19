@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:05:52.065Z",
+  "updated_at": "2026-11-19T12:00:13.566Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -29,15 +29,27 @@
     },
     {
       "section": "STARTUPS",
-      "title": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] - Entrackr",
-      "what": "Funding and acquisitions in Indian startups this week [Aug 03 - Aug 08] &nbsp;&nbsp; Entrackr",
+      "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report - People Matters - HR News",
+      "what": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report &nbsp;&nbsp; People Matters - HR News",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
       "impact": "Mixed / needs context",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
+      "model": "Do not change the model automatically; identify the economic driver first.",
       "reading_time": "20",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGlHMk5yMFgzQWptdnpKVGJRTlN5VUVCcW42eFNDUk9KYk56ZWlDbnBYYWlvUlRQWFBZS1NFN1Ztc0M2MGc0WV9WcUhFV24wNU15ejJMUkFLMmJlRF9QbzBaZ3VMREJ1bHgzamZFa0ZxcWRjWThJczlLa2NnTWM2eXlaLVJyNnNaZHpvWkk1VU9pSklWd2FVSkFnS3NTWUg3b3ppbTdGdmIxdWNNbkZzRWxfc3RyeUU4c0RQZjVXSFF2Yk9xU3BCbVVyT2V6OHRJQU1KTDlOYUhPV2U0bnBWSjdn0gHiAUFVX3lxTE1YaUcyTnIwWDNBam12ekpUYlFOU3lVRUJxbjZ4U0NST0piTnplaUNucFhhaW9SVFBYUFlLU0U3Vm1zQzYwZzRZX1ZxSEVXbjA1TXl6MkxSQUsyYmVEX1BvMFpndUxEQnVseDNqZkVrRnFxZGNZOElzOUtrY2dNYzZ5eVotUnI2c1pkem9aSTVVT2lKSVZ3YVVKQWdLc1NZSDdvemltN0Z2YjF1Y01uRnNFbF9zdHJ5RThzRFBmNVdIUXZiT3FTcEJtVXJPZXo4dElBTUpMOU5hSE9XZTRucFZKN2c?oc=5",
-      "image": "https://entrackr.com"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSTl6bkVWbXpVR0NTcXd1QTFuRzRWX3dJekJGVkMyYWlNTlpxQmxLbUxuT3B3TXAyOVkzdF9LdnRCSGRQVDJMT0JvZmdMVUFyY0RjSG8tUk1HQlNxdUd0NW9oaXk3X3lTM3p3RkYxMzJYajF3MGVLRUZLN2xuLWNKcWp6SXFYV28yTXRZWVNxQ2s3bGNnMWczSzE2RjNLSzR6VzUwWF92VktwZVdPNXFQOGE4emtkNTFuWW1QdjVkeEpJYlJMLWJPZUc5bGpGMmJGTXZB?oc=5",
+      "image": "https://www.peoplematters.in"
+    },
+    {
+      "section": "STARTUPS",
+      "title": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report - Moneycontrol.com",
+      "what": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report &nbsp;&nbsp; Moneycontrol.com",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQODEtYUxkdFFJenhlVmZzLUE3NFJTMEtxZkFIZW9UX0c0RU5zWkpOb1BEVllOSkVadWVGRkJlQUxmS182TXBhczZMZnloZF9TZlZ2MVVFV19sUjgwQVVFTVZBWnRteV9Na3doNHVoNVRmZ1hoSHVCZk5jMUk3UVBpNVhHTnRuVHdnNmR6V3Nqa0FRT2xCNzhHeU9IcTRkQnFOQ0F4bEhvUTRPRTJCdG5OYUkwUm5kdVpsczlZUGZoVExqTTBqNHhQLVhNeVk1amVQT1BfZ3BqeWZYallhMVhneEdPZ3JGXzFiOXcySUV6dXZCbUZ1NFc4ZEdIQnBQTUHSAYQCQVVfeXFMT0hHanlkajZnelNuSjIwS2lUUTl4ODZ3NGdnbkZ4bEIxSGNUaG91RWpqWEhvZXZvZkkzOTlwWWhyejVrbDlSUmpqS0FYRTRWallvWk1pandTRWdKd3laMHRTNWpkRkYtRWZhLVZPY09hSFo3eXhMZ09DVUQ5RWwzeUMwMXBZVWFJTGdpVzNmOGhjWFBuV3JUV3VkMGt6eUNfV3A2bzkyWjI2akNmSk1ueTFmSzMzN0Y1cmlMS2d3V1NLM1JmeEQzM0lEZmhVX09iQXcxUXlXeXJ0RWZPUHg1YkZMbWptU0ItUFQzdmpZdnNnRTBWNTVldzZVLXhveUxNVHFHT04?oc=5",
+      "image": "https://www.moneycontrol.com"
     },
     {
       "section": "STARTUPS",
@@ -50,6 +62,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWRnN21yM092UVpwMkhVdXdlQnhMS1NYMTBudnZ5bWRGUFZQdUhYWWRFdm83NUh0T1cyOGhmU2hRM1BMTnZlTC13bmNsbE9zbC1xNWwyWG43QVRFdHdNS29temZpaUFwczhrYXRUM1ZxVTBBUjlHZFA0aUM3SUcwMElybDJDVEhrSWVTQ1JNWm5yMnJjR25GWGdWbFVzUV9nWjJuTXdnT216clVNaFVyclVJb2hJcGtWMXfSAboBQVVfeXFMTy1kZzdtcjNPdlFacDJIVXV3ZUJ4TEtTWDEwbnZ2eW1kRlBWUHVIWFlkRXZvNzVIdE9XMjhoZlNoUTNQTE52ZUwtd25jbGxPc2wtcTVsMlhuN0FURXR3TUtvbXpmaWlBcHM4a2F0VDNWcVUwQVI5R2RQNGlDN0lHMDBJcmwyQ1RIa0llU0NSTVpucjJyY0duRlhnVmxVc1FfZ1oybk13Z09tenJVTWhVcnJVSW9oSXBrVjF3?oc=5",
       "image": "https://entrackr.com"
+    },
+    {
+      "section": "MARKETS",
+      "title": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today",
+      "what": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers &nbsp;&nbsp; India Today",
+      "why": "The story matters if it changes earnings expectations, risk appetite or a key market variable.",
+      "impact": "Potentially negative",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXpIdFdLRUp0aFVtc3lJdUkyS2NlLUthSWZvb01OUkh0bXZUaEo0XzQ0V296SkN4dFd6NzNXaC1LWHhBVHlURXVYVnZXZWk5dy1nV1FvLUxHUnVoNHprZUxoTk1rZDJtbUhKbVJ0cVdfMDVnLV8yaFItYVFRTnFvaFlmRk1iLThFRmRfcWs3S2RrYkFYNjNLM0MwQ3NtV1VpR1VwS0YxcE1yUXUxMlRJVlNMZy1EcWN3eFc5c21PVTYtSmlMaWpzcURR0gHPAUFVX3lxTE1XMG1Lb3ZYV1VCUVRRQWx0anB1NTU5OThvdENyV2NFR05hLW5yRHhiUVBOZWpLelQyNHBIT2dackhXUmY0T291ZVVSV0tFRldla1ZSbFFnT3Azay1raXZmX3J0SzAwZEctRE9TT25DYnRMZDNUYUw2SktUaGQ4aGhwejlYQ0RwRGhFWGxPdzBWbmRHTlZjV08wMXo1T0l0OHhmUTUxUy1DbVhVcWRJR1Q4Y0N2MHJjWFh5N001TURNZ212WWs2ZVhDbUNCY0RTSQ?oc=5",
+      "image": "https://www.indiatoday.in"
     },
     {
       "section": "PAINT",
@@ -76,18 +100,6 @@
       "image": "https://www.fortuneindia.com"
     },
     {
-      "section": "PAINT",
-      "title": "Asian Paints Sells Entire 4.42% Stake For ₹734 Crore In Akzo Nobel India - Free Press Journal",
-      "what": "Asian Paints Sells Entire 4.42% Stake For ₹734 Crore In Akzo Nobel India &nbsp;&nbsp; Free Press Journal",
-      "why": "Paint earnings are sensitive to demand, input costs and competitive intensity.",
-      "impact": "Mixed / needs context",
-      "model": "Review purchase price, funding, synergies and accretion/dilution.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkNXdkFBcTM2MDVURUNfNVNvZ2NaeWNZcEFicVpSX3M4Nzc0czlsNHc0aktoSzZfQ0E0Z2NuSjJOUF9KdUpfWkxRWjdva21LZWVvVVQyMEllVHdsYjFYdk1CR2E4NjE3SEJGLUpkQkk0UVZYcDdtdHJoLTEtTTlwaXdwZ240LUZBU2x6VzNDcHJicnB2YzQwbmtkd0dKUXpPdDM0SFNDRW1JYk9DblVr0gG0AUFVX3lxTFBiLWJBVC00UmQyZW91UGgyOTFNOVdxWVVydVpTR2pXS0xmVUxEQVlTUGx2aWhwVk5JeXJoTkxPOEhEYThhZHV5cVI3MkMtaE9ndURHOEd1dDNrZW5oUV9aNWNteXMxTmVYTHZMNjBuQUppVkYzdmlrbWRINjl5c0JlM2RqamRVbExrTHdzY0VTRW9CS0VTTWt2ZzVHWGREeDFOSjN1Zm95aVZER2pjYWQzeG5uNw?oc=5",
-      "image": "https://www.freepressjournal.in"
-    },
-    {
       "section": "IT",
       "title": "Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? - The Times of India",
       "what": "Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? &nbsp;&nbsp; The Times of India",
@@ -110,18 +122,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2cxYXZMNTFEVGhpbUJBSVdnV1lIN1kzSUtnREpQVmNnRlprQ3VfdXUwZUZVU1pCYUw5TmUySFR4ZFVKMk56T1ZUTkpZOUpmTVo5cEQ1ZUNaSEliM0g5eTBnQkhXY0N0cU1HN3E4T0YyQTE2ZEhRUDFKTlIwQWtGSEJzUFdSWURlaHN2MzVHTkVUR2NPR21zUnAyZ2ZiNGllczBrLUNLdHRfekxSSHNZOUtSZzFRaVFEckJWSlFaYklqUVIzZUpRVnhDOEVGUEc1emU0UkdkZ0dZdzhKUGhVVEExWWJRSmdTSEgtUXZPeHAxZTdLUzRTYUUyTUlkM08xMDhxQWJRcEZtSC01V1HSAZMCQVVfeXFMTWJ5ejhaNEgzQUZLRlZOMlhFdFUydE9mREJaQjBWQzJKeG5Maldxa2VmNGozRms2b3dyMUdKUVcxQ2p2NkhtNnVTZVdnb3M2YTJOcEcyZXFkRWQ4VUpWYS0zMVVHQlBOYXFyVGM0ZlZfTEE0VDJIdVdRUEVlY1BDc1dKXy1pZDZEVWZuWm5aT1RIYnZFYktPUHJzSy13cVl2WFpucUFCYmtxR2lxNFZxZ2NHMTZqb01XclVjYXgwbFEwY1JNbHVOcjFkZ2cyajZadVRMMHo4UXVlU3ZhV3l4T29abWdKZEl1QlVKTngtLVBxbGhlQnVCS24wV1k3UWF4Vk1ERGE2bTdaY1c0LXVOU0tWS3c?oc=5",
       "image": "https://www.livemint.com"
-    },
-    {
-      "section": "M&A",
-      "title": "How selective investing shaped India’s M&A deals in 2025 - EY",
-      "what": "How selective investing shaped India’s M&A deals in 2025 &nbsp;&nbsp; EY",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHltZWQ0dnM0b0FiTXFWYlp0SjAwbkVNUFZoWVEyN0YycXd5S0tuRmFBbFA4aDlJdS1zS0N5S29JQzNVRWk5enNmQkVKWWoxR3NXYzZ1bUozY0pkb2xVcmFiOEtGQWljQmFwWEhSdXpZOGp4SThHU0J2OUE4aEVnNmVzbkxvdHk3Wmc5bTQ1RTdEMnV6dWFhcjZPQ3JXVVV6U21NYlJrVjI3UDRuWTRXdA?oc=5",
-      "image": "https://www.ey.com"
     },
     {
       "section": "M&A",
