@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T12:01:32.458Z",
+  "updated_at": "2026-11-21T11:37:06.065Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -41,18 +41,6 @@
     },
     {
       "section": "STARTUPS",
-      "title": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report - Moneycontrol.com",
-      "what": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report &nbsp;&nbsp; Moneycontrol.com",
-      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
-      "impact": "Mixed / needs context",
-      "model": "Do not change the model automatically; identify the economic driver first.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQODEtYUxkdFFJenhlVmZzLUE3NFJTMEtxZkFIZW9UX0c0RU5zWkpOb1BEVllOSkVadWVGRkJlQUxmS182TXBhczZMZnloZF9TZlZ2MVVFV19sUjgwQVVFTVZBWnRteV9Na3doNHVoNVRmZ1hoSHVCZk5jMUk3UVBpNVhHTnRuVHdnNmR6V3Nqa0FRT2xCNzhHeU9IcTRkQnFOQ0F4bEhvUTRPRTJCdG5OYUkwUm5kdVpsczlZUGZoVExqTTBqNHhQLVhNeVk1amVQT1BfZ3BqeWZYallhMVhneEdPZ3JGXzFiOXcySUV6dXZCbUZ1NFc4ZEdIQnBQTUHSAYQCQVVfeXFMT0hHanlkajZnelNuSjIwS2lUUTl4ODZ3NGdnbkZ4bEIxSGNUaG91RWpqWEhvZXZvZkkzOTlwWWhyejVrbDlSUmpqS0FYRTRWallvWk1pandTRWdKd3laMHRTNWpkRkYtRWZhLVZPY09hSFo3eXhMZ09DVUQ5RWwzeUMwMXBZVWFJTGdpVzNmOGhjWFBuV3JUV3VkMGt6eUNfV3A2bzkyWjI2akNmSk1ueTFmSzMzN0Y1cmlMS2d3V1NLM1JmeEQzM0lEZmhVX09iQXcxUXlXeXJ0RWZPUHg1YkZMbWptU0ItUFQzdmpZdnNnRTBWNTVldzZVLXhveUxNVHFHT04?oc=5",
-      "image": "https://www.moneycontrol.com"
-    },
-    {
-      "section": "STARTUPS",
       "title": "Indian unicorns’ total valuation touched $385B in 2024: Report - YourStory.com",
       "what": "Indian unicorns’ total valuation touched $385B in 2024: Report &nbsp;&nbsp; YourStory.com",
       "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
@@ -74,6 +62,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWRnN21yM092UVpwMkhVdXdlQnhMS1NYMTBudnZ5bWRGUFZQdUhYWWRFdm83NUh0T1cyOGhmU2hRM1BMTnZlTC13bmNsbE9zbC1xNWwyWG43QVRFdHdNS29temZpaUFwczhrYXRUM1ZxVTBBUjlHZFA0aUM3SUcwMElybDJDVEhrSWVTQ1JNWm5yMnJjR25GWGdWbFVzUV9nWjJuTXdnT216clVNaFVyclVJb2hJcGtWMXfSAboBQVVfeXFMTy1kZzdtcjNPdlFacDJIVXV3ZUJ4TEtTWDEwbnZ2eW1kRlBWUHVIWFlkRXZvNzVIdE9XMjhoZlNoUTNQTE52ZUwtd25jbGxPc2wtcTVsMlhuN0FURXR3TUtvbXpmaWlBcHM4a2F0VDNWcVUwQVI5R2RQNGlDN0lHMDBJcmwyQ1RIa0llU0NSTVpucjJyY0duRlhnVmxVc1FfZ1oybk13Z09tenJVTWhVcnJVSW9oSXBrVjF3?oc=5",
       "image": "https://entrackr.com"
+    },
+    {
+      "section": "STARTUPS",
+      "title": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report - Moneycontrol.com",
+      "what": "Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report &nbsp;&nbsp; Moneycontrol.com",
+      "why": "Funding headlines matter less than growth, burn, runway and unit economics.",
+      "impact": "Mixed / needs context",
+      "model": "Do not change the model automatically; identify the economic driver first.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQODEtYUxkdFFJenhlVmZzLUE3NFJTMEtxZkFIZW9UX0c0RU5zWkpOb1BEVllOSkVadWVGRkJlQUxmS182TXBhczZMZnloZF9TZlZ2MVVFV19sUjgwQVVFTVZBWnRteV9Na3doNHVoNVRmZ1hoSHVCZk5jMUk3UVBpNVhHTnRuVHdnNmR6V3Nqa0FRT2xCNzhHeU9IcTRkQnFOQ0F4bEhvUTRPRTJCdG5OYUkwUm5kdVpsczlZUGZoVExqTTBqNHhQLVhNeVk1amVQT1BfZ3BqeWZYallhMVhneEdPZ3JGXzFiOXcySUV6dXZCbUZ1NFc4ZEdIQnBQTUHSAYQCQVVfeXFMT0hHanlkajZnelNuSjIwS2lUUTl4ODZ3NGdnbkZ4bEIxSGNUaG91RWpqWEhvZXZvZkkzOTlwWWhyejVrbDlSUmpqS0FYRTRWallvWk1pandTRWdKd3laMHRTNWpkRkYtRWZhLVZPY09hSFo3eXhMZ09DVUQ5RWwzeUMwMXBZVWFJTGdpVzNmOGhjWFBuV3JUV3VkMGt6eUNfV3A2bzkyWjI2akNmSk1ueTFmSzMzN0Y1cmlMS2d3V1NLM1JmeEQzM0lEZmhVX09iQXcxUXlXeXJ0RWZPUHg1YkZMbWptU0ItUFQzdmpZdnNnRTBWNTVldzZVLXhveUxNVHFHT04?oc=5",
+      "image": "https://www.moneycontrol.com"
     },
     {
       "section": "MARKETS",
