@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:58:59.118Z",
+  "updated_at": "2026-11-28T12:11:29.142Z",
   "edition": "PICASO — Daily Finance Brief",
   "status": "live",
   "stories": [
@@ -77,18 +77,6 @@
     },
     {
       "section": "M&A",
-      "title": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge - Fortune India",
-      "what": "India Inc clocks $11 billion worth of deals in May; M&A, PE activity moderates after April surge &nbsp;&nbsp; Fortune India",
-      "why": "The key questions are price, funding, strategic logic and integration risk.",
-      "impact": "Potentially positive",
-      "model": "Review WACC and rate-sensitive assumptions.",
-      "reading_time": "20",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjZ0X3ZHNVZtbzFPbURyNVNKRkZQdjU1clozV1BQZlZOU0N2TTgya3JlUVhjeUxWRW8wTFVlLXFpUlFMOGpzdlc0cy1pRTB6MThCem9ZY2k0akQ4R2N4ZVBlRGFLUzZMTUh1cVBQZ2x6UktVRVl5T0xYSW5CMDU1S0o1OTRiNjY0T3B5LU5hUThqN3ZzazY4eEMzUURSY1VvZVVlSzA1emVXM3V5SlBwLThOWHhKdmlId2NUNmJkV2k1VnozWjRaRDJTSUpVSUJZVHQzQmgtUEJDQdIB5wFBVV95cUxNWVhXUkxrbFhtSHA0NzZGTHdtR01TTmRBcWNLX3h2SVA0RGE4SnJQZFFwb3hSZXRWRTFLeU5BN1p4c3dUWEZuV3Fpdjk4VDZZbllwV3FoZG4wUFNUeXBlWFZzNVZsRmZLTjZ0MEFVb3JrOXdGQ0NhcW1OWUo3bzJKWS01UUx6MGpzR2FyMWRvNWNLd013dFg0cWltU25md25XQ3ZFcm51Yzk2RWFhd05udVFwbFRmZldmMksySDhuREh1NkRjMEFKQ2ZKdXZPNkVHaDlMeldYNWNZVmFLRG14LWlNTVh4Smc?oc=5",
-      "image": "https://www.fortuneindia.com"
-    },
-    {
-      "section": "M&A",
       "title": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals - Business Viewpoint Magazine",
       "what": "Why M&A Activity Is Rising in India and What Is Driving Corporate Deals &nbsp;&nbsp; Business Viewpoint Magazine",
       "why": "The key questions are price, funding, strategic logic and integration risk.",
@@ -146,6 +134,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVW55VVpoTUxrbzlQU0tkRkV3NWJoODJBc1VtdzNtcWJJaVpxaWNZZ3RJUWxIMlJjRGlEaHBRY3MwcGl2X1BrNU9TRUNXejVmc1BEQTZkMXVYdHoyWXFFZFFyTVdaM0t6SWd6NGR1QlRGTXg2cG9ZZ2N1TlVjVTJYcnNfQnpoenpEdTZRbGtHS3lBOGkzTkRj?oc=5",
       "image": "https://taxguru.in"
+    },
+    {
+      "section": "M&A",
+      "title": "RBI allows Indian lenders to fund acquisitions of Indian corporates - Business Standard",
+      "what": "RBI allows Indian lenders to fund acquisitions of Indian corporates &nbsp;&nbsp; Business Standard",
+      "why": "The key questions are price, funding, strategic logic and integration risk.",
+      "impact": "Mixed / needs context",
+      "model": "Review WACC and rate-sensitive assumptions.",
+      "reading_time": "20",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVtaXh5eDBGQnZ6ZWRkYnlyNVlyOF8ydzg1MjBmYmgyMkVBWkRPRWRGU0ZGdFF6UWE2UG1WWjBkMUJfTE4xdDUtRU1EQnBVT3Y1TnpPMnBEcWFCYTRKNUQ1ZE5ZVktOVUthb2NCcXZDNkxISVNFTjVIb1VIazNlM2JDampvaHU5bWhUTHd3bXRjTmNLR3NWZEg5U2JiMEFDR0dYQ2ViTGxJY1c5czdJamV4Q3Vmd2dRaXFyUzBsbzZBNXfSAcgBQVVfeXFMT1QzZHZ2TlZNaUdSVGN4Z2N2b3gwdEtSYWFrZGoxdENmc2ZIWEhWbE1fQmZOWHl0ekZLeU9UNER3c2JmWjRndi0zLThKNUVSZ0hBejY2MWt4MEZsZmgwZHhaTnVnVE5EcThHY3hOZm1MdFFScmxIM0NjbTIzdEJiVExwYWRwNkpHQzZTaWlVS1ppb1FFZVd2aWU5R1MzcjZPTTZhNk9NX3N0dHlWM1BiT3BYTGgzd0xwclRsSkJmTGdMcTFpcjc1QzE?oc=5",
+      "image": "https://www.business-standard.com"
     }
   ],
   "cfa": {
